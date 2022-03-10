@@ -1,0 +1,21 @@
+
+h2 {
+  font-family: 'Sebaldus-Gotisch';
+  counter-increment: h2-counter;
+  display: flex;
+  flex-direction: column;
+  font-size: 4em;
+  height: 6cm;
+  justify-content: flex-end;
+  margin: 0;
+  margin-bottom: 1.5rem;
+  string-set: heading content();
+  text-align: center;
+}
+h2::before {
+  content: "Chapter " counter(h2-counter) " ";
+  display: block;
+  font-size: 1.2rem;
+  font-weight: normal;
+  line-height: 2;
+}

@@ -1,0 +1,62 @@
+@page {
+  margin: .25in .25in .5in .25in;
+  size: 5.5in 8.5in;
+}
+
+@page :left {
+  @bottom-left {
+    content: counter(page);
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-right {
+    content: string(heading);
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: string(heading);
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-right {
+    content: counter(page);
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page full {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  margin: 0;
+}
+
+@page :blank {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
+
+@page clean {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
