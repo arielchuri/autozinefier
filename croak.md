@@ -9,7 +9,7 @@
 [TOC]
 </section>
 <section markdown="1">
-## Auto Zine Maker
+## AutoZinefier
 
 
 </section>

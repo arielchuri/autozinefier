@@ -90,13 +90,17 @@ section {
   content: target-counter(attr(href), page);
   float: right;
 }
-
-thead {
-  border-bottom: 1px solid gray;
+table {
+  border-collapse: collapse;
+  width: 100%
 }
 
-tr {
-  border-bottom: .5px solid gray;
+thead {
+  border-bottom: .5px solid black;
+}
+
+tr td {
+  border-bottom: .5px solid lightgray;
 }
 
 
