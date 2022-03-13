@@ -68,6 +68,18 @@ section {
   width: 5.75in;
   z-index: -1;
 }
+pre, code, kbd, source {
+  font-size: .8em;
+  line-height: 1.2em;
+}
+pre, kbd {
+  border: 1px dotted black;
+  padding: .25em;
+  overflow: hidden;
+  color: white;
+  background: black;
+  border-radius: 4px;
+}
 #contents p {
   font-size: 2em;
 }
