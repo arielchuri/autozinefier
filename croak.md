@@ -12,7 +12,7 @@
 ## AutoZinefier
 
 This zine was typed in a *plain text editor* using [markdown](https://daringfireball.net/projects/markdown/basics) and html. 
-You can see the some of the text I typed below.  This is what I typed to create the beginning of the following chapter.
+You can see some of the text I typed below.  This is what I typed to create the beginning of the following chapter.
 
 <pre>
 &lt;section markdown="1"&gt;
@@ -35,7 +35,7 @@ Here is the html as a webpage: [https://arielchuri.github.io/autozinefier/croak.
 To do this at home, use the button that says, *code* to download a zip file of everything.
 You will need to install two command line programs. Python-markdown ([https://python-markdown.github.io/](https://python-markdown.github.io/)) and Weasyprint ([https://weasyprint.org/](https://weasyprint.org/)).
 
-You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
+You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
 
 </section>
 <section markdown="1">
@@ -56,11 +56,9 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 **Initiative:** A ranger adds his class level to his initiative rolls.
 
-**Luck:** At first level, a warrior’s Luck modifier applies to attack rolls with one specific kind of weapon. This kind of weapon must be chosen at first level and the modifier is fixed at its starting value – neither the weapon nor the modifier changes over the course of the warrior’s career. The weapon type must be specific: longsword or short sword, not “swords.”
+**Luck:** Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.
 
-**Ranger skills:**
-Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarryy without a roll at all.
-
+**Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarryy without a roll at all.
 ### Ranger Table
 
 | Level | Deed   | Crit     | Threat* | Act         | Ref | Fort | Will |
@@ -81,7 +79,7 @@ Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can trac
 <section markdown="1">
 ## Halfling Pipeweed
 
-<div markdown="1" class="colstwo">
+<div markdown="1">
 No self respecting halfling is without their pipe and some good pipweed.
 A halfling may forage for pipeweed by rolling on the following table.
 Typically just before their next adventure.
@@ -91,31 +89,31 @@ Standard pipeweed may be bought in shops in areas where halflings reside for 10s
 A halfling must use a portion of standard pipeweed to keep their pipe lit all day.
 With their pipe lit the halfling may use an action to add a little herbal supplement to the pipe. Effects do not stack.
 </div>
-### Pipeweed Foraging Table
+### Pipeweed Foraging Table ### {: .breakbefore}
 
 Roll 3d14 +Luckmod +/-Location (Barren-3; Distant, Magical +3)
 
 <div markdown="1" class="tablewrap">
 | Roll  | Name                    | Amount | Effect                  | Duration |
 |-------|-------------------------|--------|-------------------------|----------|
-| <=22  | Nothing found           |        |                         |          |
-| 23-25 | Pipeweed                | 2d6    | +1 Will                 | All day  |
-| 26    | Gassy Webcap            | 2d6    | Heal self 1hp (1/turn)  | -        |
-| 27    | Cape Sundew             | 1d4    | +1 Initiative           | 1 turn   |
-| 28    | Sneezewort              | 1d3    | +1 luck, non-permanent  | 1 turn   |
-| 29    | Lentil Shanklit         | 1d3    | +1 sneak                | 2 rounds |
-| 30    | Whiskery Milkcap        | 1d3    | + 2 Agility             | 4 rounds |
-| 31    | Turquoise Elfcup        | 1d3    | +1d Saving throws       | 4 turns  |
-| 32    | Idledew                 | 1d4    | +2 Stamina              | 1 turn   |
-| 33    | Witches’ Butter         | 1d6    | Act +1                  | 1 turn   |
-| 34    | Snaketongue Truffleclub | 1d4    | Detect falsehood        | 1 turn   |
-| 35    | Strangler Fig           | 1      | Feather fall            | 3 rounds |
-| 36    | Silver Torch Cactus     | 1      | 1d3 luck                | 1 day    |
-| 37    | Lithops                 | 1      | Act +1d, -2 Personality | 1 turn   |
-| 38    | Hydnora                 | 1d3    | +3 Sneak                | 1 turn   |
-| 39    | Bladderwort             | 1      | 18 Intelligence Act -1d | 1 turn   |
-| 40    | Dragon Arum             | 1d3    | +1d All rolls           | 1 turn   |
-| 41+   | Reroll 2x 1d10+30       |        |                         |          |
+| ≤26   | Nothing found           |        |                         |          |
+| 27-29 | Pipeweed                | 2d6    | +1 Will                 | All day  |
+| 30    | Gassy Webcap            | 2d6    | Heal self 1hp (1/turn)  | -        |
+| 31    | Cape Sundew             | 1d4    | +1 Initiative           | 1 turn   |
+| 32    | Sneezewort              | 1d3    | +1 luck, non-permanent  | 1 turn   |
+| 33    | Lentil Shanklit         | 1d3    | +1 sneak                | 2 rounds |
+| 34    | Whiskery Milkcap        | 1d3    | + 2 Agility             | 4 rounds |
+| 35    | Turquoise Elfcup        | 1d3    | +1d Saving throws       | 4 turns  |
+| 36    | Idledew                 | 1d4    | +2 Stamina              | 1 turn   |
+| 37    | Witches’ Butter         | 1d6    | Act +1                  | 1 turn   |
+| 38    | Snaketongue Truffleclub | 1d4    | Detect falsehood        | 1 turn   |
+| 39    | Strangler Fig           | 1      | Feather fall            | 3 rounds |
+| 40    | Silver Torch Cactus     | 1      | 1d3 luck                | 1 day    |
+| 41    | Lithops                 | 1      | Act +1d, -2 Personality | 1 turn   |
+| 42    | Hydnora                 | 1d3    | +3 Sneak                | 1 turn   |
+| 43    | Bladderwort             | 1      | 18 Intelligence Act -1d | 1 turn   |
+| 44    | Dragon Arum             | 1d3    | +1d All rolls           | 1 turn   |
+| 45+   | Reroll 2x 1d10+34       |        |                         |          |
 </div>
 
 </section>
@@ -124,9 +122,9 @@ Roll 3d14 +Luckmod +/-Location (Barren-3; Distant, Magical +3)
 
 <strong>Slurm Priest:</strong> Init +2; Atk bite +2 melee (1d6 + swallow), Vomit Puss Goblin +3 ranged 40’ (1d3, 5’ area effect); AC 12; HD 2d8; hp 10; MV 20'; Act 1d20 + 1d14; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +0; AL C.
 
-<div markdown="1" class="colstwo">
 This upright, purple worm loves jewelry, profanity, and is always found with the Slime Goblins it has excreted. 
 A supplicant of its chaos lord, the Slurm Priest is often called to test the forces of Law. 
+{: .breakafter}
 
 **Disgust:** Any human in a 5’ range must make a fort save each turn or lose a turn. Demihumans are immune. 
 
@@ -136,7 +134,6 @@ Characters who lose Stamina in the Slurm’s stomach have a chance of mutation (
 The Slurm gains -1 attack and -5’ movement per person swallowed. 
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
-</div>
 
 ### Vomit
 

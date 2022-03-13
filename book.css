@@ -52,6 +52,14 @@ section {
   break-after: always;
 }
 
+.breakbefore {
+  break-before: always;
+}
+
+.breakafter {
+  break-after: always;
+}
+
 .clean {
   page: clean;
 }
