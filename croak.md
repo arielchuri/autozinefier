@@ -18,7 +18,7 @@ You can see some of the text I typed below.  This is what I typed to create the 
 &lt;section markdown="1"&gt;
 ## Ranger
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. 
-Rangers are warriors of the forest. What they lack in hit points, they make up for in pure skill.
+Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
 **Hit points:** A ranger gains 1d8 hit points at each level.
 
@@ -35,12 +35,12 @@ Here is the html as a webpage: [https://arielchuri.github.io/autozinefier/croak.
 To do this at home, use the button that says, *code* to download a zip file of everything.
 You will need to install two command line programs. Python-markdown ([https://python-markdown.github.io/](https://python-markdown.github.io/)) and Weasyprint ([https://weasyprint.org/](https://weasyprint.org/)).
 
-You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
+You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work here is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
 
 </section>
 <section markdown="1">
 ## Ranger
-You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in pure skill.
+You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
 **Hit points:** A ranger gains 1d8 hit points at each level.
 
@@ -52,7 +52,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 **Critical hits:** The ranger enjoys the same expanded crit range as warriors but only on ranged attacks.
 
-**Aiming:** Taking a round to aim a ranged attack adds +2 to the roll. A target that is unaware of any danger and struck by a hidden and aiming ranger, receives a critical hit as long as the attack is successful.
+**Aiming:** Taking a round to aim a ranged attack adds +2 to the roll. A target that is unaware of any danger and struck by an aiming ranger, receives a critical hit as long as the attack is successful.
 
 **Initiative:** A ranger adds his class level to his initiative rolls.
 
@@ -74,7 +74,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 | 9     | +d10+3 | 2d20/V   | 20-24   | d20+d20     | +3  | +5   | +3   |
 | 10    | +d10+4 | 2d20/V   | 20-24   | d20+d20+d14 | +3  | +6   | +4   |
 
-* Ranged attacks only.
+   * Ranged attacks only.
 </section>
 <section markdown="1">
 ## Halfling Pipeweed
@@ -91,7 +91,7 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 </div>
 ### Pipeweed Foraging Table ### {: .breakbefore}
 
-Roll 3d14 +Luckmod +/-Location (Barren-3; Distant, Magical +3)
+A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.
 
 <div markdown="1" class="tablewrap">
 | Roll  | Name                    | Amount | Effect                  | Duration |
@@ -115,6 +115,42 @@ Roll 3d14 +Luckmod +/-Location (Barren-3; Distant, Magical +3)
 | 44    | Dragon Arum             | 1d3    | +1d All rolls           | 1 turn   |
 | 45+   | Reroll 2x 1d10+34       |        |                         |          |
 </div>
+
+</section>
+<section markdown="1">
+## Manifest of the Mundane
+
+### The Rain
+
+1. Never reaches the surface or extinguishes torches
+1. Completely deafens anyone it touches for as long as they remain wet
+1. Feels oily, but will not ignite
+1. Glows phosphorescencely orange for 1d5 rounds
+1. Causes spiders to develop from droplets and quickly skitter away
+1. Feels preternaturally **1.** cold **2.** hot
+1. Emanates from the face of a maiden in the clouds
+1. Causes crime in its wake
+1. Withers plants and foliage to a deep black, but has no effect on creatures
+1. Smells coppery, but has no taste
+1. Creates warts that fall off in 1d7 days
+1. Contains a coarse brown fur
+1. Has a name
+1. Taste like a fine vintage port (still appears as a clear liquid without smell)
+1. Cannot be captured in a bowl or canteen 
+
+### A Book
+
+1. Has an author with the exact same name as the reader
+1. Smells like a rotten corpse
+1. Causes the reader to experience a headache
+1. Smokes for 1d5 minutes
+1. Will become misplaced if not carefully watched
+1. Contains the seal of an ancient scion of law
+1. Opens to reveal a strange feather clearly used to mark the page
+1. Details the location of a **1.** unmapped oasis **2.** hidden kingdom **3.** pit with no bottom **4.** a mysterious stone
+1. Has a heartbeat.  If opened, the book will die.
+1. Contains the most beautiful illustrations you’ve ever seen. You do not want to part with this tome.
+1. Is written in ink that is only visible in complete darkness
 
 </section>
 <section markdown="1">
@@ -152,13 +188,11 @@ Upon losing a moral check or being reduced to too few HP; the Slurm will forcibl
 <section markdown="1">
 ## Slime Goblins
 
-These are regular goblins that have been mutated in the extradimensional stomach of the Slurm Worm (see below). 
-
-### Puss
+These are goblins that have been mutated in the extradimensional stomach of the Slurm (see above). 
 
 **Puss Goblin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a turn), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
-Explodes with yellow spray upon taking any damage. 1d3 to all within 5’. Usually sets off a chain reaction. Attacks in numbers. 
+Massively bloated into transluscent, yellow balls. These frightened looking goblins roll into battle in numbers. They explodes with yellow spray upon taking any damage and . 1d3 to all within 5’. Usually sets off a chain reaction. Attacks in numbers. 
 
 ### Napalm
 
