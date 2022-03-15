@@ -8,7 +8,7 @@
 <section markdown="1" id="contents">
 [TOC]
 </section>
-<section markdown="1">
+<section markdown="1" class="background">
 ## AutoZinefier
 
 This zine was typed in a *plain text editor* using [markdown](https://daringfireball.net/projects/markdown/basics) and html. 
@@ -24,7 +24,7 @@ Rangers are warriors of the forest. What they lack in hit points, they make up f
 
 **Weapon training:** A ranger is trained in the use of these weapons: club, dagger, long sword, spear, staff, and all ranged weapons. 
 </pre>
-
+![](images/coversuper.svg)
 I then use a script on my computer to transform this into a webpage and PDF.
 The images are in a separate folder and, are linked in the text as well.
 
@@ -38,7 +38,7 @@ You will need to install two command line programs. Python-markdown ([https://py
 You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work here is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
 
 </section>
-<section markdown="1">
+<section class="outro" markdown="1">
 ## Ranger
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
@@ -58,7 +58,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 **Luck:** Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.
 
-**Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarryy without a roll at all.
+**Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.
 ### Ranger Table
 
 | Level | Deed   | Crit     | Threat* | Act         | Ref | Fort | Will |
@@ -74,12 +74,15 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 | 9     | +d10+3 | 2d20/V   | 20-24   | d20+d20     | +3  | +5   | +3   |
 | 10    | +d10+4 | 2d20/V   | 20-24   | d20+d20+d14 | +3  | +6   | +4   |
 
-   * Ranged attacks only.
+ Ranged attacks only.
+
+![](images/outro.svg)
+{: .outro }
+
 </section>
-<section markdown="1">
+<section class="outro" markdown="1">
 ## Halfling Pipeweed
 
-<div markdown="1">
 No self respecting halfling is without their pipe and some good pipweed.
 A halfling may forage for pipeweed by rolling on the following table.
 Typically just before their next adventure.
@@ -88,7 +91,10 @@ Standard pipeweed may be bought in shops in areas where halflings reside for 10s
 
 A halfling must use a portion of standard pipeweed to keep their pipe lit all day.
 With their pipe lit the halfling may use an action to add a little herbal supplement to the pipe. Effects do not stack.
-</div>
+
+![](images/outro.svg)
+{: .outro }
+
 ### Pipeweed Foraging Table ### {: .breakbefore}
 
 A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.

@@ -5,10 +5,10 @@
    style="enable-background:new"
    id="svg823"
    version="1.1"
-   viewBox="0 0 146.05 222.25"
-   height="8.75in"
+   viewBox="0 0 146.05 120.65"
+   height="4.75in"
    width="5.75in"
-   sodipodi:docname="coversuper.svg"
+   sodipodi:docname="outro.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="1.5573185"
      inkscape:cx="302.44295"
-     inkscape:cy="382.067"
+     inkscape:cy="587.5484"
      inkscape:window-width="3416"
      inkscape:window-height="1354"
      inkscape:window-x="2568"
@@ -53,7 +53,7 @@
     <color-profile
        name="Artifex-PS-CMYK-Profile"
        xlink:href="/usr/share/color/icc/ghostscript/ps_cmyk.icc"
-       id="color-profile1215" />
+       id="color-profile1438" />
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter9828"
@@ -81,7 +81,7 @@
        id="filter9834"
        x="-0.017034493"
        y="-0.019669211"
-       width="1.034069"
+       width="1.0340689"
        height="1.0393404">
       <feTurbulence
          type="fractalNoise"
@@ -159,8 +159,8 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter9828-6"
-       x="-0.0084256864"
-       y="-0.0096254151"
+       x="-0.0084256865"
+       y="-0.0096254153"
        width="1.0168816"
        height="1.0192508">
       <feTurbulence
@@ -181,7 +181,7 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter9868-3-5-2"
-       x="-0.031146043"
+       x="-0.031146044"
        y="-0.027685132"
        width="1.0622921"
        height="1.0553637">
@@ -456,21 +456,21 @@
        style="fill:none;stroke:#ccff00;stroke-width:3.00627;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect904"
        width="136.69373"
-       height="212.89372"
+       height="110.82767"
        x="4.6781349"
        y="-58.821865" />
     <rect
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:3.29059;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
        id="rect904-3"
        width="142.75941"
-       height="218.95941"
+       height="117.40687"
        x="1.6452892"
        y="-61.85471" />
     <rect
        style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1051"
        width="136.52499"
-       height="136.52499"
+       height="115.88702"
        x="4.6781344"
        y="-58.821865" />
     <rect

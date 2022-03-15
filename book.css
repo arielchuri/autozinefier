@@ -141,7 +141,25 @@ thead {
 tr td {
   border-bottom: .5px solid lightgray;
 }
-
+p.outro {
+  display: block;
+    margin: auto;
+  /* height: 90mm; */
+  left: -.375in;
+  max-width: none;
+  object-fit: cover;
+  position: relative;
+  /* top: -.1in; */
+  /* width: 168mm; */
+  z-index: 2;
+}
+  section.outro {
+    padding-bottom: 0px;
+    overflow: hidden;
+  }
+p.outro > img {
+  margin: 0;
+}
 @media only screen {
   body {
     background: lightgray;
@@ -154,12 +172,12 @@ tr td {
     margin-bottom: 2rem;
     box-shadow: 4px 4px darkgray;
     background: white;
-    padding: .25in .25in .5in .25in;
     z-index: -1;
     font-size: 1.1rem;
     width: 5in;
     padding: .25in .25in .5in .25in;
     background-color: cornsilk;
+    min-height: 8.5in;
   }
   .blank {
     display: none;
@@ -168,7 +186,6 @@ tr td {
     box-sizing: border-box;
     position: relative;
     box-sizing: border-box;
-    height: 8.5in;
     width: 5.5in;
     position: relative;
   }
@@ -182,12 +199,20 @@ tr td {
   section {
     color: blue;
     width: auto;
+    min-height: 160vw;
   }
   .background {
-    height: 160vw;
+    width: 100vw;
   }
   .background img{
+    left: -2vw;
+    top: -2.5vw;
     height: 165vw;
     width: 104vw;
+    clip: rect(0in, 5.625in, 8.625in, 0in);
+  }
+  .outro {
+  left: calc(-.125in-2vw);
+  width: 106vw;
   }
 }
