@@ -1,5 +1,6 @@
 * {
   /* border: 1px solid lightgray; */
+    box-sizing: border-box;
 }
 
 @font-face {
@@ -40,11 +41,6 @@ p {
   line-height: 1.3;
   text-align: justify;
 }
-img {
-  display: block;
-  margin: 2em auto;
-}
-
 h1 {
   display: none;
 }
@@ -84,16 +80,16 @@ ol > li::marker {
 }
 
 .background img {
-  top: -.375in;
-  height: 8.75in;
-  left: -.375in;
-  margin: 0;
-  max-width: none;
-  object-fit: cover;
-  /* page: full; */
-  position: absolute;
-  width: 5.75in;
-  z-index: -1;
+  /* top: -.375in; */
+  /* height: 8.75in; */
+  /* left: -.375in; */
+  /* margin: 0; */
+  /* max-width: none; */
+  /* object-fit: cover; */
+  /* /\* page: full; *\/ */
+  /* position: absolute; */
+  /* width: 5.75in; */
+  /* z-index: -1; */
 }
 pre, code, kbd, source {
   font-size: .8em;
@@ -141,26 +137,17 @@ thead {
 tr td {
   border-bottom: .5px solid lightgray;
 }
-p.outro {
-  display: block;
-    margin: auto;
-  /* height: 90mm; */
+img.background {
+  top: -.375in;
   left: -.375in;
-  max-width: none;
-  object-fit: cover;
-  position: relative;
-  /* top: -.1in; */
-  /* width: 168mm; */
-  z-index: 2;
-}
-  section.outro {
-    padding-bottom: 0px;
-    overflow: hidden;
-  }
-p.outro > img {
-  margin: 0;
+  clip: rect(.125in, 5.625in, 8.625in, .125in);
+  position: absolute;
 }
 @media only screen {
+img.background {
+  top: -.125in;
+  left: -.125in;
+}
   body {
     background: lightgray;
   }
@@ -172,35 +159,26 @@ p.outro > img {
     margin-bottom: 2rem;
     box-shadow: 4px 4px darkgray;
     background: white;
+    width: 5.5in;
     z-index: -1;
     font-size: 1.1rem;
-    width: 5in;
+    width: 5.5in;
     padding: .25in .25in .5in .25in;
-    background-color: cornsilk;
     min-height: 8.5in;
+    position: relative;
   }
   .blank {
     display: none;
   }
-  .background {
-    box-sizing: border-box;
-    position: relative;
-    box-sizing: border-box;
-    width: 5.5in;
-    position: relative;
-  }
-  .background img{
-    top: -.125in;
-    left: -.125in;
-    clip: rect(.125in, 5.625in, 8.625in, .125in);
-  }
 }
 @media only screen and (max-width: 5.5in) {
   section {
-    color: blue;
     width: auto;
     min-height: 160vw;
   }
+  img {
+  max-width: 87vw;
+}
   .background {
     width: 100vw;
   }
@@ -210,9 +188,5 @@ p.outro > img {
     height: 165vw;
     width: 104vw;
     clip: rect(0in, 5.625in, 8.625in, 0in);
-  }
-  .outro {
-  left: calc(-.125in-2vw);
-  width: 106vw;
   }
 }

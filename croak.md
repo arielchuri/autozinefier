@@ -1,15 +1,16 @@
 # Croak!
-<section markdown="1" class="background">
-![](images/cover.svg)
-![](images/coversuper.svg)
+<section markdown="1" class="clean">
+![](images/cover.svg){: .background}
+![](images/coversuper.svg){: .background}
 </section>
 <section class="clean blank">
 </section>
 <section markdown="1" id="contents">
 [TOC]
 </section>
-<section markdown="1" class="background">
+<section markdown="1" class="">
 ## AutoZinefier
+![](images/coversuper.svg){: .background}
 
 This zine was typed in a *plain text editor* using [markdown](https://daringfireball.net/projects/markdown/basics) and html. 
 You can see some of the text I typed below.  This is what I typed to create the beginning of the following chapter.
@@ -24,7 +25,6 @@ Rangers are warriors of the forest. What they lack in hit points, they make up f
 
 **Weapon training:** A ranger is trained in the use of these weapons: club, dagger, long sword, spear, staff, and all ranged weapons. 
 </pre>
-![](images/coversuper.svg)
 I then use a script on my computer to transform this into a webpage and PDF.
 The images are in a separate folder and, are linked in the text as well.
 
@@ -38,8 +38,10 @@ You will need to install two command line programs. Python-markdown ([https://py
 You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work here is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
 
 </section>
-<section class="outro" markdown="1">
+<section class="" markdown="1">
 ## Ranger
+![](images/cover.svg){: .background}
+
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
 **Hit points:** A ranger gains 1d8 hit points at each level.
@@ -76,11 +78,10 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
  Ranged attacks only.
 
-![](images/outro.svg)
-{: .outro }
+![](images/coversuper.svg){: .background}
 
 </section>
-<section class="outro" markdown="1">
+<section class="" markdown="1">
 ## Halfling Pipeweed
 
 No self respecting halfling is without their pipe and some good pipweed.
@@ -93,7 +94,6 @@ A halfling must use a portion of standard pipeweed to keep their pipe lit all da
 With their pipe lit the halfling may use an action to add a little herbal supplement to the pipe. Effects do not stack.
 
 ![](images/outro.svg)
-{: .outro }
 
 ### Pipeweed Foraging Table ### {: .breakbefore}
 
@@ -223,8 +223,8 @@ Water damages it.
 </div>
 </div>
 </section>
-<section markdown="1" class="background">
-![](images/coversuper.svg)
+<section markdown="1" class="">
+![](images/coversuper.svg){: .background}
 </section>
 </body>
 </html>
