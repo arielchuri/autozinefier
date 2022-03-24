@@ -1,7 +1,11 @@
 # Croak!
 <section markdown="1" class="clean">
-![](images/cover.svg){: .background}
-![](images/coversuper.svg){: .background}
+![](images/cover.svg)
+{: .background}
+
+![](images/coversuper.svg)
+{: .background}
+
 </section>
 <section class="clean blank">
 </section>
@@ -9,8 +13,11 @@
 [TOC]
 </section>
 <section markdown="1" class="">
+
+![](images/coversuper.svg)
+{: .background}
+
 ## AutoZinefier
-![](images/coversuper.svg){: .background}
 
 This zine was typed in a *plain text editor* using [markdown](https://daringfireball.net/projects/markdown/basics) and html. 
 You can see some of the text I typed below.  This is what I typed to create the beginning of the following chapter.
@@ -39,8 +46,9 @@ You can then run the included script called *markdowntopdf.sh*. On my computer, 
 
 </section>
 <section class="" markdown="1">
+![](images/coversuper.svg)
+{: .background}
 ## Ranger
-![](images/cover.svg){: .background}
 
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
@@ -78,22 +86,26 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
  Ranged attacks only.
 
-![](images/coversuper.svg){: .background}
+![](images/coversuper.svg)
+{: .background}
 
 </section>
 <section class="" markdown="1">
 ## Halfling Pipeweed
 
-No self respecting halfling is without their pipe and some good pipweed.
+No self respecting halfling is without their pipe and some good pipeweed.
+While smoking standard has no mechanical effect, certain herbal additives maybe added to a hot pipe to enhance the halflings abilities.
 A halfling may forage for pipeweed by rolling on the following table.
 Typically just before their next adventure.
 
-Standard pipeweed may be bought in shops in areas where halflings reside for 10sp each. It should also be noted that it would be terribly rude for a halfling to refuse another halfling a pinch of pipeweed and normal for the favor to be asked. 
+Standard pipeweed may be bought in shops in areas where halflings reside for 10sp each.
+It should also be noted that it would be terribly rude for a halfling to refuse another halfling a puff of pipeweed and nearly rude for the favor to not be asked. 
 
 A halfling must use a portion of standard pipeweed to keep their pipe lit all day.
 With their pipe lit the halfling may use an action to add a little herbal supplement to the pipe. Effects do not stack.
 
 ![](images/outro.svg)
+{: .forground}
 
 ### Pipeweed Foraging Table ### {: .breakbefore}
 
@@ -103,8 +115,8 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 | Roll  | Name                    | Amount | Effect                  | Duration |
 |-------|-------------------------|--------|-------------------------|----------|
 | ≤26   | Nothing found           |        |                         |          |
-| 27-29 | Pipeweed                | 2d6    | +1 Will                 | All day  |
-| 30    | Gassy Webcap            | 2d6    | Heal self 1hp (1/turn)  | -        |
+| 27-29 | Pipeweed                | 1d6    | Allows other weeds      | All day  |
+| 30    | Gassy Webcap            | 1d6    | Heal self 1hp (1/turn)  | -        |
 | 31    | Cape Sundew             | 1d4    | +1 Initiative           | 1 turn   |
 | 32    | Sneezewort              | 1d3    | +1 luck, non-permanent  | 1 turn   |
 | 33    | Lentil Shanklit         | 1d3    | +1 sneak                | 2 rounds |
@@ -121,6 +133,9 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 | 44    | Dragon Arum             | 1d3    | +1d All rolls           | 1 turn   |
 | 45+   | Reroll 2x 1d10+34       |        |                         |          |
 </div>
+
+![](images/outro.svg)
+{: .forground}
 
 </section>
 <section markdown="1">
@@ -223,8 +238,9 @@ Water damages it.
 </div>
 </div>
 </section>
-<section markdown="1" class="">
-![](images/coversuper.svg){: .background}
+<section markdown="1" class="background">
+![](images/coversuper.svg)
+{: .background}
 </section>
 </body>
 </html>
