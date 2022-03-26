@@ -177,63 +177,57 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 <section markdown="1">
 ## Slurm Priest
 
-<strong>Slurm Priest:</strong> Init +2; Atk bite +2 melee (1d6 + swallow), Vomit Puss Goblin +3 ranged 40’ (1d3, 5’ area effect); AC 12; HD 2d8; hp 10; MV 20'; Act 1d20 + 1d14; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +0; AL C.
+<strong>Slurm Priest:</strong> Init +2; Atk bite +2 melee (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (1d3, 5’ area effect); AC 12; HD 2d8; hp 10; MV 20'; Act 1d20 + 1d14; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +0; AL C.
 
-This upright, purple worm loves jewelry, profanity, and is always found with the Slime Goblins it has excreted. 
+This upright, purple worm loves jewelry, profanity, and is always found with the *Slime Grubins* it has excreted. 
 A supplicant of its chaos lord, the Slurm Priest is often called to test the forces of Law. 
 {: .breakafter}
 
-**Disgust:** Any human in a 5’ range must make a fort save each turn or lose a turn. Demihumans are immune. 
+**Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
-**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down with arms pinned at waist and legs kicking. On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
+**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down with arms pinned at waist and legs kicking. On the Slurm’s next round the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
 
 Characters who lose Stamina in the Slurm’s stomach have a chance of mutation (10% per point of Stamina, minor corruption table modified by luck).
 The Slurm gains -1 attack and -5’ movement per person swallowed. 
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
 
-### Vomit
+**Vomit** Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next round on a miss. 
 
-Can shoot a Puss Goblin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Goblin explodes on a hit or lands ready to attack next turn on a miss. 
+**Defecate** Can release 3 Puss Grubins. If the Slurm has ingested Stamina, the Slurm can release Acid or Napalm Grubins. 
 
-### Defecate
-
-Can release 3 Puss Goblins. If the Slurm has ingested Stamina, the Slurm can release Acid or Napalm Goblins. 
-
-### Exiting
-
-Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
+**Exiting** Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
 </div>
 
 </section>
 <section markdown="1">
-## Slime Goblins
+## Slime Grubins
 
-These are goblins that have been mutated in the extradimensional stomach of the Slurm (see above). 
+These are grubins that have mutated in the extradimensional stomach of the Slurm (see above). 
 
-**Puss Goblin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a turn), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
+**Puss Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a round), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
-Massively bloated into transluscent, yellow balls. These frightened looking goblins roll into battle in numbers. They explodes with yellow spray upon taking any damage and . 1d3 to all within 5’. Usually sets off a chain reaction. Attacks in numbers. 
+Massively bloated into transluscent, yellow balls. These frightened looking grubins roll into battle in numbers. They use their full movement to roll right up to the enemeys and explode with yellow spray upon taking any damage. 1d3 to all within 5’. Usually sets off a chain reaction. 
 
-### Napalm
+**Napalm Grubin** Att Shortsword +1 melee, Spit napalm +1 ranged 1d4HP and catch fire. If killed by piercing or slashing attack; reflex save to avoid napalm spray. 
 
-Att Shortsword +1 melee, Spit napalm +1 ranged 1d4HP and catch fire. If killed by piercing or slashing attack; reflex save to avoid napalm spray. 
-
-### Acid
-
-Acid spray ranged 20’ to center of 10’x10’ square, reflex save or 1d4HP and then 1HP for 1d4/round and lose a turn or until fort save from coughing gas.  If killed by piercing or slashing attack; reflex save to avoid acid spray. 
+**Acid Grubin** Acid spray ranged 20’ to center of 10’x10’ square, reflex save or 1d4HP and then 1HP for 1d4/round and lose a round or until fort save from coughing gas.  If killed by piercing or slashing attack; reflex save to avoid acid spray. 
 </div>
 
 </section>
 <section markdown="1">
 ## Mechanaut
 
-<div markdown="1" class="colstwo">
-Large, plate armor night. Creature in head controls the armor. If killed, the head disconnects and flies away. 
+<div markdown="1" class="">
+A large, plate armor knight. A small creature in the head controls this mechanical armor. Usually attacks with a *bash* followed by a sword strike to the prone enemy. If the armor is killed, the head disconnects and flies away. 
 
-Shock Armor: contact causes shock damage (1d3). 3 damage causes Fort save or drop weapon. 
+**Mechanaut:** Init +2; Atk Great Sword +4 melee (1d12+4), Bash +6 melee (1d6 + bash); AC 17; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, infravision, immune to critical hits; SV Fort +10, Ref +1, Will +6; AL N
 
-Water damages it. 
+Shock Armor: contact with skin or steel causes shock damage (1d6). Drop your weapon on receiving 5 damage and damage 6 causes DC 20 Fort save or fall prone. 
+
+*Bash*: DC 15 or prone.
+
+Water causes it 1d12 damage/round. 
 
 </div>
 </div>
