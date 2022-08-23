@@ -1,21 +1,19 @@
 # Croak!
 <section markdown="1" class="clean">
-![](images/cover.svg)
-{: .background}
+<!-- ![](images/cover.svg) -->
+<!-- {: .background} -->
 
 ![](images/coversuper.svg)
 {: .background}
 
-</section>
-<section class="clean blank">
 </section>
 <section markdown="1" id="contents">
 [TOC]
 </section>
 <section markdown="1" class="">
 
-![](images/coversuper.svg)
-{: .background}
+<!-- ![](images/coversuper.svg) -->
+<!-- {: .background} -->
 
 ## AutoZinefier
 
@@ -46,8 +44,8 @@ You can then run the included script called *markdowntopdf.sh*. On my computer, 
 
 </section>
 <section class="" markdown="1">
-![](images/coversuper.svg)
-{: .background}
+<!-- ![](images/coversuper.svg) -->
+<!-- {: .background} -->
 ## Ranger
 
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
@@ -86,8 +84,8 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
  Ranged attacks only.
 
-![](images/coversuper.svg)
-{: .background}
+<!-- ![](images/coversuper.svg) -->
+<!-- {: .background} -->
 
 </section>
 <section class="" markdown="1">
@@ -134,8 +132,24 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 | 45+   | Reroll 2x 1d10+34       |        |                         |          |
 </div>
 
-![](images/outro.svg)
-{: .forground}
+<!-- ![](images/outro.svg) -->
+<!-- {: .forground} -->
+
+</section>
+<section class="" markdown="1">
+## Shields of Note
+
+
+
+### Magic Shield 1
++1d atk, damage, and deed to bash.
+
+### Magic Shield 2
+Holding the shield you cannot be knocked prone in battle as long as you remain consceus.
+
+a
+{: .breakbefore}
+
 
 </section>
 <section markdown="1">
@@ -157,7 +171,6 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 1. Contains a coarse brown fur
 1. Has a name
 1. Taste like a fine vintage port (still appears as a clear liquid without smell)
-1. Cannot be captured in a bowl or canteen 
 
 ### A Book
 
@@ -172,6 +185,26 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 1. Has a heartbeat.  If opened, the book will die.
 1. Contains the most beautiful illustrations you’ve ever seen. You do not want to part with this tome.
 1. Is written in ink that is only visible in complete darkness
+1. 
+1. 
+1. 
+
+### A Door
+
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
 </section>
 <section markdown="1">
@@ -181,18 +214,17 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 
 This upright, purple worm loves jewelry, profanity, and is always found with the *Slime Grubins* it has excreted. 
 A supplicant of its chaos lord, the Slurm Priest is often called to test the forces of Law. 
-{: .breakafter}
 
 **Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
-**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down with arms pinned at waist and legs kicking. On the Slurm’s next round the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
+**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down with arms pinned at waist and legs kicking. On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
 
 Characters who lose Stamina in the Slurm’s stomach have a chance of mutation (10% per point of Stamina, minor corruption table modified by luck).
 The Slurm gains -1 attack and -5’ movement per person swallowed. 
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
 
-**Vomit** Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next round on a miss. 
+**Vomit** Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. 
 
 **Defecate** Can release 3 Puss Grubins. If the Slurm has ingested Stamina, the Slurm can release Acid or Napalm Grubins. 
 
@@ -214,6 +246,8 @@ Massively bloated into transluscent, yellow balls. These frightened looking grub
 **Acid Grubin** Acid spray ranged 20’ to center of 10’x10’ square, reflex save or 1d4HP and then 1HP for 1d4/round and lose a round or until fort save from coughing gas.  If killed by piercing or slashing attack; reflex save to avoid acid spray. 
 </div>
 
+a
+{: .breakbefore}
 </section>
 <section markdown="1">
 ## Mechanaut
@@ -229,9 +263,27 @@ Shock Armor: contact with skin or steel causes shock damage (1d6). Drop your wea
 
 Water causes it 1d12 damage/round. 
 
+a
+{: .breakbefore}
 </div>
 </div>
 </section>
+<section markdown="1">
+## Another Muddy Village
+
+| R | Name         | Leader         | Of Note             | Strife              |
+|---|--------------|----------------|---------------------|---------------------|
+| 1 | Wortlethorpe | Goomie         | Poorly led          | No beer             |
+| 2 | Bursheer     | Dar Dafa       | Powerful matriarchs | Haunted             |
+| 3 | Inkvar       | Village Elders |                     | Harrased by grubins |
+| 4 | Obelast      | Footumch       | Great shops         | Warring Families    |
+| 5 | Tigre        | Zankule        | A town secret       | A Cult              |
+| 6 | Boorsville   | Samuel Goodins | Everyone lies       |                     |
+| 7 | Shiple       | Delphine       |                     | A town bully        |
+
+
+</section>
+
 <section markdown="1" class="background">
 ![](images/coversuper.svg)
 {: .background}

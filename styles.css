@@ -5,10 +5,10 @@ h2 {
   display: flex;
   flex-direction: column;
   font-size: 4em;
-  height: 6cm;
+  height: 14rem;
   justify-content: flex-end;
   margin: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 5rem;
   string-set: heading content();
   text-align: center;
 }
