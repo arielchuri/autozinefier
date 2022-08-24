@@ -153,22 +153,6 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 <!-- {: .forground} -->
 
 </section>
-<section class="" markdown="1">
-## Shields of Note
-
-<look magic sword rules and translate to shields>
-
-### Magic Shield 1
-+1d atk, damage, and deed to bash.
-
-### Magic Shield 2
-Holding the shield you cannot be knocked prone in battle as long as you remain consceus.
-
-a
-{: .breakbefore}
-
-
-</section>
 <section markdown="1">
 ## Manifest of the Mundane
 
