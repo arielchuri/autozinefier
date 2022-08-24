@@ -16,6 +16,7 @@ this is a test of the handwriting.
 Every contributor has waived copyright to their work. Anyone can use it for any purpose without attribution.
 
 - Ariel Churi
+- Daniel Beltran
 - Chris Messemore
 - Dave
 
@@ -24,7 +25,7 @@ Every contributor has waived copyright to their work. Anyone can use it for any 
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>   
- To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work
+ To the extent possible under law, the persons who associated CC0 with this work have waived all copyright and related or neighboring rights to this work.
 </section>
 <section markdown="1" class="">
 
@@ -287,6 +288,51 @@ a
 {: .breakbefore}
 </div>
 </div>
+</section>
+<section markdown="1">
+
+## ﻿Slime Crit Table
+
+### Slime Critical Hit Matrix
+
+| Slime HD | Crit die |
+|----------|----------|
+| 1-3      | d3       |
+| 4-8      | d5       |
+| 9-14     | d7       |
+| 15-17    | d14      |
+| 18-19    | d16      |
+| 20+      | d24      |
+	
+### Crit Table S: Slimes
+
+| Roll      | Result                                                                                                                                                                                                                                                                               |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 or less | Slime causes mild rash. You’re itchy for 1d3 days.                                                                                                                                                                                                                                   |
+| 2         | Slime gets in your mouth. Lose your sense of taste.                                                                                                                                                                                                                                  |
+| 3         | Allergic reaction to slime! You take 1d3 points of damage each day until healed.                                                                                                                                                                                                     |
+| 4         | Whatever object you hold in your right hand gets stuck there and is unremovable for 1d4 days                                                                                                                                                                                         |
+| 5         | Your feet get stuck to the ground for 1d4 rounds                                                                                                                                                                                                                                     |
+| 6         | Slime hit splashes into face, slime hits eye. You are blinded by the attack for 1d6 rounds plus whatever extra effect the slime does.                                                                                                                                                |
+| 7         | Slime envelopes your legs. 1d6 damage, movement reduced by half until healed.                                                                                                                                                                                                        |
+| 8         | Direct hit to the mouth. Ooze fills your belly. Slime auto hits for 1d3 turns unless healed for any amount.                                                                                                                                                                          |
+| 9         | Full face of ooze. Eyes burn out in 2d3 rounds.                                                                                                                                                                                                                                      |
+| 10        | Sword hand engulfed. DC 15 Strength.                                                                                                                                                                                                                                                 |
+| 11        | Slime envelopes you. Dissolve at 1d6 HP and suffocate at 1d6 Stamina per round. DC 15 Strength check to get halfway out.                                                                                                                                                             |
+| 12        | Eyes turn to jelly. You see...                                                                                                                                                                                                                                                       |
+| 13        | Muck Mitosis! Slime drains plasma for an additional 1d8 damage. Part of the slime breaks out and becomes a second slime (of random kind) with 1d8 HP. Second slime immediately attacks.                                                                                              |
+| 14        | Sludge Seizure! Slime tendrils control you like a marionette. You get a DC 20 Strength check to break free each round. While controlled the slime uses you to attack with 1d20 + 4 (1d4) blows.                                                                                      |
+| 15        | Mephitic Mud! The slime's residue leaves a terrible odour on you, you suffer -2d to all Personality checks with anything that can smell for 1 week                                                                                                                                   |
+| 16        | Sticky Situation! Slime secretions splash on your body making it sticky. You easily stick to everything and can effortlessly move along surfaces at all angles as if affected by a roll of 11 on the Spider Climb spell for 1 day                                                    |
+| 17        | Mired Boots - Target of the attack receives -2 to reflex saves and +1d to Fumble Rolls until slime has been removed from boots.                                                                                                                                                      |
+| 18        | Enslimed Extremities! Hands turn to jelly. Attack d14 until magically                                                                                                                                                                                                                |
+| 19        | Ooze Osmosis! Part of the slime integrates with your body. Lose 1d5 Stamina and 1d3 HP per round. If Stamina goes to zero before you die, become a jelly person. A skeleton in a transparent body with the slices powers. Takes over brain in 1d30 days.                             |
+| 20        | Slimed! - Slime has deposited part of itself upon target's head. Roll a d4 - (1) Eyes - Target receives -2 to attack rolls, (2) Ears - Target is deafened, (3) Mouth - Target is unable to communicate, (4) Target suffers results of 1, 2, and 3.  In effect until slime is removed |
+| 22        |                                                                                                                                                                                                                                                                                      |
+| 23        |                                                                                                                                                                                                                                                                                      |
+| 24        | Crud Coup! Slime gushes through every pore in your body. You are the jelly person! Gain all ooze powers, 1d4 HP, and heal +1hp/day.                                                                                                                                                  |
+
+
 </section>
 <section markdown="1">
 ## Another Muddy Village
