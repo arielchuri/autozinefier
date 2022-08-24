@@ -108,12 +108,12 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 ## Halfling Pipeweed
 
 No self respecting halfling is without their pipe and some good pipeweed.
-While smoking standard has no mechanical effect, certain herbal additives maybe added to a hot pipe to enhance the halflings abilities.
+While smoking standard pipeweed has no mechanical effect, certain herbal additives maybe added to a hot pipe to enhance the halflings abilities.
 A halfling may forage for pipeweed by rolling on the following table.
 Typically just before their next adventure.
 
-Standard pipeweed may be bought in shops in areas where halflings reside for 10sp each.
-It should also be noted that it would be terribly rude for a halfling to refuse another halfling a puff of pipeweed and nearly rude for the favor to not be asked. 
+Standard pipeweed can only be foraged but may be bought in shops in areas where halflings reside for 10sp each.
+It should also be noted that it would be terribly rude for a halfling to refuse another halfling a puff of pipeweed and nearly as rude for the favor to not be asked. 
 
 A halfling must use a portion of standard pipeweed to keep their pipe lit all day.
 With their pipe lit the halfling may use an action to add a little herbal supplement to the pipe. Effects do not stack.
@@ -123,7 +123,7 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 
 ### Pipeweed Foraging Table ### {: .breakbefore}
 
-A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.
+A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.
 
 <div markdown="1" class="tablewrap">
 | Roll  | Name                    | #   | Effect                  | Duration |
@@ -132,7 +132,7 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 | 27-29 | Pipeweed                | 1d6 | Allows other weeds      | All day  |
 | 30    | Gassy Webcap            | 1d6 | Heal self 1hp (1/turn)  | -        |
 | 31    | Cape Sundew             | 1d4 | +1 Initiative           | 1 turn   |
-| 32    | Sneezewort              | 1d3 | +1 luck, non-permanent  | 1 turn   |
+| 32    | Sneezewort              | 1d3 | +1 luck                 | 1 turn   |
 | 33    | Lentil Shanklit         | 1d3 | +1 sneak                | 2 rounds |
 | 34    | Whiskery Milkcap        | 1d3 | + 2 Agility             | 4 rounds |
 | 35    | Turquoise Elfcup        | 1d3 | +1d Saving throws       | 4 turns  |
@@ -143,7 +143,7 @@ A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +
 | 40    | Silver Torch Cactus     | 1   | 1d3 luck                | 1 day    |
 | 41    | Lithops                 | 1   | Act +1d, -2 Personality | 1 turn   |
 | 42    | Hydnora                 | 1d3 | +3 Sneak                | 1 turn   |
-| 43    | Bladderwort             | 1   | 18 Intelligence Act -1d | 1 turn   |
+| 43    | Bladderwort             | 1   | 18 Intelligence, Act -1d| 1 turn   |
 | 44    | Dragon Arum             | 1d3 | +1d All rolls           | 1 turn   |
 | 45+   | Reroll 2x 1d10+34       |     |                         |          |
 </div>
