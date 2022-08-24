@@ -6,6 +6,8 @@ autozinefier
 
 # AutoZinefier
 
+test of android editing
+
 This zine was typed in a *plain text editor* using [markdown](https://daringfireball.net/projects/markdown/basics) and html. 
 You can see some of the text I typed below.  This is what I typed to create the beginning of the following chapter.
 
