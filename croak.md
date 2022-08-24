@@ -155,7 +155,7 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 <section class="" markdown="1">
 ## Shields of Note
 
-
+<look magic sword rules and translate to shields>
 
 ### Magic Shield 1
 +1d atk, damage, and deed to bash.
@@ -171,7 +171,7 @@ a
 <section markdown="1">
 ## Manifest of the Mundane
 
-### The Rain
+### The Rain DONE
 
 1. Never reaches the surface or extinguishes torches
 1. Completely deafens anyone it touches for as long as they remain wet
@@ -201,8 +201,8 @@ a
 1. Has a heartbeat.  If opened, the book will die.
 1. Contains the most beautiful illustrations you’ve ever seen. You do not want to part with this tome.
 1. Is written in ink that is only visible in complete darkness
-1. 
-1. 
+1. Contains a palimpsest of demon summoning.
+1. Agents of a great wizard hunt it.
 1. 
 
 ### A Door
