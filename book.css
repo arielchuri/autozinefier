@@ -104,25 +104,25 @@ color: white;
 background: black;
 border-radius: 4px;
 }
-#contents p {
+.toc p {
 font-size: 2em;
 }
-#contents ul {
+.toc ul {
 display: block;
 margin: 1em 0;
 padding: 0;
 }
-#contents li {
+.toc li {
 display: block;
 }
-#contents a {
+.toc a {
 color: inherit;
 text-decoration: none;
 }
-#contents a::before {
+.toc a::before {
 /* content: target-counter(attr(href), h2-counter) '. ' target-text(attr(href)); */
 }
-#contents a::after {
+.toc a::after {
 content: target-counter(attr(href), page);
 float: right;
 }
@@ -134,7 +134,9 @@ width: 100%
 thead {
 border-bottom: .5px solid black;
 }
-
+th {
+text-align: left;
+}
 tr td {
 border-bottom: .5px solid lightgray;
 }

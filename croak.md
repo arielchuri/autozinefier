@@ -1,4 +1,3 @@
-# Croak!
 <section markdown="1" class="clean">
 <!-- ![](images/cover.svg) -->
 <!-- {: .background} -->
@@ -8,7 +7,23 @@
 
 </section>
 <section markdown="1" id="contents">
+### Contents
 [TOC]
+
+### Contributors
+
+Every contributor has waived copyright to their work. Anyone can use it for any purpose without attribution.
+
+- Ariel Churi
+- Chris Messemore
+- Dave
+
+
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>   
+ To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work
 </section>
 <section markdown="1" class="">
 
@@ -110,26 +125,26 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 A half day spent foraging allows may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.
 
 <div markdown="1" class="tablewrap">
-| Roll  | Name                    | Amount | Effect                  | Duration |
-|-------|-------------------------|--------|-------------------------|----------|
-| ≤26   | Nothing found           |        |                         |          |
-| 27-29 | Pipeweed                | 1d6    | Allows other weeds      | All day  |
-| 30    | Gassy Webcap            | 1d6    | Heal self 1hp (1/turn)  | -        |
-| 31    | Cape Sundew             | 1d4    | +1 Initiative           | 1 turn   |
-| 32    | Sneezewort              | 1d3    | +1 luck, non-permanent  | 1 turn   |
-| 33    | Lentil Shanklit         | 1d3    | +1 sneak                | 2 rounds |
-| 34    | Whiskery Milkcap        | 1d3    | + 2 Agility             | 4 rounds |
-| 35    | Turquoise Elfcup        | 1d3    | +1d Saving throws       | 4 turns  |
-| 36    | Idledew                 | 1d4    | +2 Stamina              | 1 turn   |
-| 37    | Witches’ Butter         | 1d6    | Act +1                  | 1 turn   |
-| 38    | Snaketongue Truffleclub | 1d4    | Detect falsehood        | 1 turn   |
-| 39    | Strangler Fig           | 1      | Feather fall            | 3 rounds |
-| 40    | Silver Torch Cactus     | 1      | 1d3 luck                | 1 day    |
-| 41    | Lithops                 | 1      | Act +1d, -2 Personality | 1 turn   |
-| 42    | Hydnora                 | 1d3    | +3 Sneak                | 1 turn   |
-| 43    | Bladderwort             | 1      | 18 Intelligence Act -1d | 1 turn   |
-| 44    | Dragon Arum             | 1d3    | +1d All rolls           | 1 turn   |
-| 45+   | Reroll 2x 1d10+34       |        |                         |          |
+| Roll  | Name                    | #   | Effect                  | Duration |
+|-------|-------------------------|-----|-------------------------|----------|
+| ≤26   | Nothing found           |     |                         |          |
+| 27-29 | Pipeweed                | 1d6 | Allows other weeds      | All day  |
+| 30    | Gassy Webcap            | 1d6 | Heal self 1hp (1/turn)  | -        |
+| 31    | Cape Sundew             | 1d4 | +1 Initiative           | 1 turn   |
+| 32    | Sneezewort              | 1d3 | +1 luck, non-permanent  | 1 turn   |
+| 33    | Lentil Shanklit         | 1d3 | +1 sneak                | 2 rounds |
+| 34    | Whiskery Milkcap        | 1d3 | + 2 Agility             | 4 rounds |
+| 35    | Turquoise Elfcup        | 1d3 | +1d Saving throws       | 4 turns  |
+| 36    | Idledew                 | 1d4 | +2 Stamina              | 1 turn   |
+| 37    | Witches’ Butter         | 1d6 | Act +1                  | 1 turn   |
+| 38    | Snaketongue Truffleclub | 1d4 | Detect falsehood        | 1 turn   |
+| 39    | Strangler Fig           | 1   | Feather fall            | 3 rounds |
+| 40    | Silver Torch Cactus     | 1   | 1d3 luck                | 1 day    |
+| 41    | Lithops                 | 1   | Act +1d, -2 Personality | 1 turn   |
+| 42    | Hydnora                 | 1d3 | +3 Sneak                | 1 turn   |
+| 43    | Bladderwort             | 1   | 18 Intelligence Act -1d | 1 turn   |
+| 44    | Dragon Arum             | 1d3 | +1d All rolls           | 1 turn   |
+| 45+   | Reroll 2x 1d10+34       |     |                         |          |
 </div>
 
 <!-- ![](images/outro.svg) -->
@@ -235,15 +250,19 @@ Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from
 <section markdown="1">
 ## Slime Grubins
 
-These are grubins that have mutated in the extradimensional stomach of the Slurm (see above). 
+These are standard grubins that have been pickled in the extradimensional stomach of the Slurm (see above). 
 
-**Puss Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a round), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
+**Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a round), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
-Massively bloated into transluscent, yellow balls. These frightened looking grubins roll into battle in numbers. They use their full movement to roll right up to the enemeys and explode with yellow spray upon taking any damage. 1d3 to all within 5’. Usually sets off a chain reaction. 
+Massively bloated into transluscent balls.
+These frightened looking grubins roll into battle in numbers.
+They use their full movement to roll right up to the enemy and burst upon taking any damage.
 
-**Napalm Grubin** Att Shortsword +1 melee, Spit napalm +1 ranged 1d4HP and catch fire. If killed by piercing or slashing attack; reflex save to avoid napalm spray. 
+**Puss:** 1d3 to all within 10’.
 
-**Acid Grubin** Acid spray ranged 20’ to center of 10’x10’ square, reflex save or 1d4HP and then 1HP for 1d4/round and lose a round or until fort save from coughing gas.  If killed by piercing or slashing attack; reflex save to avoid acid spray. 
+**Napalm:** 5' covered in flaming gel and grubin bits. 1d5 damage/round. two DC 15 agility checks to remove. Anyone may attempt over multiple rounds.
+
+**Acid:** Acid cloud 15’. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
 </div>
 
 a
@@ -271,22 +290,30 @@ a
 <section markdown="1">
 ## Another Muddy Village
 
-| R | Name         | Leader         | Of Note             | Strife              |
-|---|--------------|----------------|---------------------|---------------------|
-| 1 | Wortlethorpe | Goomie         | Poorly led          | No beer             |
-| 2 | Bursheer     | Dar Dafa       | Powerful matriarchs | Haunted             |
-| 3 | Inkvar       | Village Elders |                     | Harrased by grubins |
-| 4 | Obelast      | Footumch       | Great shops         | Warring Families    |
-| 5 | Tigre        | Zankule        | A town secret       | A Cult              |
-| 6 | Boorsville   | Samuel Goodins | Everyone lies       |                     |
-| 7 | Shiple       | Delphine       |                     | A town bully        |
+| R | Name         | Leader         |
+|---|--------------|----------------|
+| 1 | Wortlethorpe | Goomie         |
+| 2 | Bursheer     | Dar Dafa       |
+| 3 | Inkvar       | Village Elders |
+| 4 | Obelast      | Footumch       |
+| 5 | Tigre        | Zankule        |
+| 6 | Boorsville   | Samuel Goodins |
+| 7 | Shiple       | Delphine       |
 
+-------------------------------
 
+| R | Of Note             | Strife              |
+|---|---------------------|---------------------|
+| 1 | Poorly led          | No beer             |
+| 2 | Powerful matriarchs | Haunted             |
+| 3 |                     | Harrased by grubins |
+| 4 | Great shops         | Warring Families    |
+| 5 | A town secret       | A Cult              |
+| 6 | Everyone lies       |                     |
+| 7 |                     | A town bully        |
 </section>
 
 <section markdown="1" class="background">
 ![](images/coversuper.svg)
 {: .background}
 </section>
-</body>
-</html>
