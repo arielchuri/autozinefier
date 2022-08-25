@@ -211,23 +211,23 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 <section markdown="1">
 ## Slurm Priest
 
-<strong>Slurm Priest:</strong> Init +2; Atk bite +2 melee (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (1d3, 5’ area effect); AC 12; HD 2d8; hp 10; MV 20'; Act 1d20 + 1d14; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +0; AL C.
+<strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
 
-This upright, purple worm loves jewelry, profanity, and is always found with the *Slime Grubins* it has excreted. 
+This upright, purple worm loves jewelry and profanity. It is always found with the *Slime Grubins* it has excreted. 
 A supplicant of its chaos lord, the Slurm Priest is often called to test the forces of Law. 
 
 **Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
-**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down with arms pinned at waist and legs kicking. On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
+**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down in the slurm's mouth with arms pinned at the waist and legs kicking. On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
 
-Characters who lose Stamina in the Slurm’s stomach have a chance of mutation (10% per point of Stamina, minor corruption table modified by luck).
+Characters who lose Stamina in the Slurm’s stomach have a chance of mutation. 10%/round, cumulative. Minor corruption table modified by luck.
 The Slurm gains -1 attack and -5’ movement per person swallowed. 
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
 
 **Vomit** Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. 
 
-**Defecate** Can release 3 Puss Grubins. If the Slurm has ingested Stamina, the Slurm can release Acid or Napalm Grubins. 
+**Defecate** Eject 3 Puss, Acid, or Napalm Grubins.
 
 **Exiting** Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
 </div>
@@ -319,7 +319,7 @@ a
 
 </section>
 <section markdown="1">
-## Another Muddy Village
+## Another Village
 
 | R | Name         | Leader         |
 |---|--------------|----------------|
