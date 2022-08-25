@@ -16,9 +16,9 @@ this is a test of the handwriting.
 Every contributor has waived copyright to their work. Anyone can use it for any purpose without attribution.
 
 - Ariel Churi
-- Daniel Beltran
 - Chris Messemore
-- Dave
+- Daniel Beltran
+- Dave Campbell
 
 
   <a rel="license"
@@ -248,39 +248,6 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 </section>
 <section markdown="1">
-## Another Village
-
-| R | Name         | Leader         |
-|---|--------------|----------------|
-| 1 | Wortlethorpe | Goomie         |
-| 2 | Bursheer     | Dar Dafa       |
-| 3 | Inkvar       | Village Elders |
-| 4 | Obelast      | Footumch       |
-| 5 | Tigre        | Zankule        |
-| 6 | Boorsville   | Samuel Goodins |
-| 7 | Shiple       | Delphine       |
-<p> </p>
-| R | Of Note             | Strife              |
-|---|---------------------|---------------------|
-| 1 | Poorly led          | No beer             |
-| 2 | Powerful matriarchs | Haunted             |
-| 3 | Seasonal holiday    | Harrased by grubins |
-| 4 | Great shops         | Warring Families    |
-| 5 | A town secret       | A Cult              |
-| 6 | Everyone lies       | Debt                |
-| 7 | The temple          | A town bully        |
-<p> </p>
-| R | Atmosphere           | NPC                          |
-|---|----------------------|------------------------------|
-| 1 | Muddy hole           | Checkson own most everything |
-| 2 | Ramshackle           | Vixa, drinks and talks       |
-| 3 | Smart carriage homes | Suuli, helpful and smart     |
-| 4 | Garden paths         | Dida Groot, healer           |
-| 5 | Spread out           | Plix, runaway                |
-| 6 | Upright homes        | Shoyla, gambler              |
-| 7 | Warm and comfy       | Pingo, wealthy gadabout      |
-</section>
-<section markdown="1">
 ## Slurm Priest
 
 <strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
@@ -343,6 +310,39 @@ Bash: DC 15 or prone.
 <!-- {: .breakbefore} -->
 </div>
 </div>
+</section>
+<section markdown="1">
+## Another Village
+
+| R | Name         | Leader         |
+|---|--------------|----------------|
+| 1 | Wortlethorpe | Goomie         |
+| 2 | Bursheer     | Dar Dafa       |
+| 3 | Inkvar       | Village Elders |
+| 4 | Obelast      | Footumch       |
+| 5 | Tigre        | Zankule        |
+| 6 | Boorsville   | Samuel Goodins |
+| 7 | Shiple       | Delphine       |
+<p> </p>
+| R | Of Note             | Strife              |
+|---|---------------------|---------------------|
+| 1 | Poorly led          | No beer             |
+| 2 | Powerful matriarchs | Haunted             |
+| 3 | Seasonal holiday    | Harrased by grubins |
+| 4 | Great shops         | Warring Families    |
+| 5 | A town secret       | A Cult              |
+| 6 | Everyone lies       | Debt                |
+| 7 | The temple          | A town bully        |
+<p> </p>
+| R | Atmosphere           | NPC                          |
+|---|----------------------|------------------------------|
+| 1 | Muddy hole           | Checkson own most everything |
+| 2 | Ramshackle           | Vixa, drinks and talks       |
+| 3 | Smart carriage homes | Suuli, helpful and smart     |
+| 4 | Garden paths         | Dida Groot, healer           |
+| 5 | Spread out           | Plix, runaway                |
+| 6 | Upright homes        | Shoyla, gambler              |
+| 7 | Warm and comfy       | Pingo, wealthy gadabout      |
 </section>
 <section markdown="1">
 
