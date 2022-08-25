@@ -236,22 +236,20 @@ Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from
 <section markdown="1">
 ## Slime Grubins
 
-These are standard grubins that have been pickled in the extradimensional stomach of the Slurm (see above). 
+These are standard grubins that have been pickled in the extra-dimensional stomach of the Slurm (see above). 
 
-**Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst area effect 5’ (1d3 and DC 10 Fort save or lose a round), AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
+**Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst (area effect 5'); AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
-Massively bloated into transluscent balls.
+Massively bloated into translucent balls.
 These frightened looking grubins roll into battle in numbers.
 They use their full movement to roll right up to the enemy and burst upon taking any damage.
 
 **Puss:** 1d3 to all within 10’.
 
-**Napalm:** 5' covered in flaming gel and grubin bits. 1d5 damage/round. two DC 15 agility checks to remove. Anyone may attempt over multiple rounds.
+**Napalm:** 5' covered in flaming gel and grubin bits. 1d5 damage/round. three DC 15 agility checks to remove. Anyone may attempt over multiple rounds.
 
-**Acid:** Acid cloud 15’. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
+**Acid:** Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
 </div>
-
-a
 {: .breakbefore}
 </section>
 <section markdown="1">
