@@ -250,7 +250,7 @@ They use their full movement to roll right up to the enemy and burst upon taking
 
 **Acid:** Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
 </div>
-{: .breakbefore}
+<!-- {: .breakbefore} -->
 </section>
 <section markdown="1">
 ## Mechanaut
