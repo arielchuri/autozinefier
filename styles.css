@@ -4,8 +4,8 @@ h2 {
   counter-increment: h2-counter;
   display: flex;
   flex-direction: column;
-  font-size: 4em;
-  height: 8rem;
+  font-size: 3em;
+  height: 9rem;
   justify-content: flex-end;
   margin: 0;
   margin-bottom: 3rem;
