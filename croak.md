@@ -273,7 +273,6 @@ Bash: DC 15 or prone.
 <section markdown="1">
 
 ## ﻿Slime Crit Table
-
 ### Slime Critical Hit Matrix
 
 | Slime HD | Crit die |
@@ -309,8 +308,8 @@ Bash: DC 15 or prone.
 | 18        | Enslimed Extremities! Hands turn to jelly. Attack d14 until magically                                                                                                                                                                                                                |
 | 19        | Ooze Osmosis! Part of the slime integrates with your body. Lose 1d5 Stamina and 1d3 HP per round. If Stamina goes to zero before you die, become a jelly person. A skeleton in a transparent body with the slices powers. Takes over brain in 1d30 days.                             |
 | 20        | Slimed! - Slime has deposited part of itself upon target's head. Roll a d4 - (1) Eyes - Target receives -2 to attack rolls, (2) Ears - Target is deafened, (3) Mouth - Target is unable to communicate, (4) Target suffers results of 1, 2, and 3.  In effect until slime is removed |
-| 22        |                                                                                                                                                                                                                                                                                      |
-| 23        |                                                                                                                                                                                                                                                                                      |
+| 22        | Slime reduces you to 1 hp and splits into three slimes.                                                                                                                                                                                                                              |
+| 23        | Slime slides under your clothes. Three succesful attack and one more each round. Cannot be removed.                                                                                                                                                                                  |
 | 24        | Crud Coup! Slime gushes through every pore in your body. You are the jelly person! Gain all ooze powers, 1d4 HP, and heal +1hp/day.                                                                                                                                                  |
 
 
