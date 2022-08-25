@@ -341,6 +341,36 @@ Bash: DC 15 or prone.
 </section>
 
 <section markdown="1" class="background">
+
+## Paladin
+
+Everything as Cleric except what is below.
+- HD 1d10
+Attack +1 at first level and as Warrior with Mighty Deeds -d1 thereafter
+Caster Level -1
+Higher Standards Disapproval Level begins at 2
+Spells Known -1 per level
+Lucky Weapon as warrior
+
+### Mighty Deed: Smite
+Affects only the unholy. Blade bathed in holy light.
+1:-1 Disapproval
+3: +4 magic damage and roll turn unholy -4 focused on target.
+4: +6 magic damage and roll turn unholy -2 focused on target.
+5: +8 magic damage and unholy of 2 HD or less are killed instantly. Roll turn unholy focused on target.
+6: +10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.
+7+: +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does
+1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target
+
+## Anti-Paladin
+
+As above but must wear black and…
+
+Instead of *Lay On Hands*, use *Death Touch* (*DCC Annual*, #1, Pg 18).
+*Turn Unholy* effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail roll the body check. Combine with *Death Touch* for more fun.
+*Fickle Master*: The Anti-Paladin's natural disapproval level is 2 and they use a d5 when rolling on the disapproval table.
+
+
 ![](images/coversuper.svg)
 {: .background}
 </section>
