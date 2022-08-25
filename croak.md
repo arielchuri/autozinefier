@@ -339,7 +339,6 @@ Bash: DC 15 or prone.
 | 6 | Everyone lies       |                     |
 | 7 |                     | A town bully        |
 </section>
-
 <section markdown="1" class="background">
 
 ## Paladin
@@ -362,14 +361,21 @@ Affects only the unholy. Blade bathed in holy light.
 7+: +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does
 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target
 
+</section>
+<section markdown="1" class="background">
+
 ## Anti-Paladin
 
 As above but must wear black and…
 
 Instead of *Lay On Hands*, use *Death Touch* (*DCC Annual*, #1, Pg 18).
-*Turn Unholy* effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail roll the body check. Combine with *Death Touch* for more fun.
+
+*Turn Unholy* effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail *roll the body* check. Combine with *Death Touch* for more fun.
+
 *Fickle Master*: The Anti-Paladin's natural disapproval level is 2 and they use a d5 when rolling on the disapproval table.
 
+</section>
+<section markdown="1" class="background">
 
 ![](images/coversuper.svg)
 {: .background}
