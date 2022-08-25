@@ -84,7 +84,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 **Luck:** Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.
 
 **Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.
-### Ranger Table
+### Ranger Table {: .breakbefore}
 
 | Level | Deed   | Crit     | Threat* | Act         | Ref | Fort | Will |
 |-------|--------|----------|---------|-------------|-----|------|------|
@@ -99,10 +99,49 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 | 9     | +d10+3 | 2d20/V   | 20-24   | d20+d20     | +3  | +5   | +3   |
 | 10    | +d10+4 | 2d20/V   | 20-24   | d20+d20+d14 | +3  | +6   | +4   |
 
- Ranged attacks only.
+*Ranged attacks only.
 
 <!-- ![](images/coversuper.svg) -->
 <!-- {: .background} -->
+
+</section>
+<section markdown="1" class="">
+
+## Paladin
+
+Everything as Cleric except the following.
+
+- HD 1d10
+- Attack +1 at first level and as Warrior with Mighty Deeds -d1 thereafter
+- **Higher Standards**. Disapproval Level begins at 2
+- Weapon training as warrior
+- Spells Known -1 per level
+- Lucky Weapon as warrior
+
+### Mighty Deed: Smite
+Affects only the unholy or evil. Weapon bathed in holy light.
+
+| Roll | Effect                                                                                                                                                                                      |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | -1 Disapproval                                                                                                                                                                              |
+| 3    | +4 magic damage and roll turn unholy -4 focused on target.                                                                                                                                  |
+| 4    | +6 magic damage and roll turn unholy -2 focused on target.                                                                                                                                  |
+| 5    | +8 magic damage and unholy of 2 HD or less are killed instantly. Roll turn unholy focused on target.                                                                                        |
+| 6    | +10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.                                      |
+| 7+   | +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target |
+
+</section>
+<section markdown="1" class="">
+
+## Anti-Paladin
+
+As above but must wear black and…
+
+**Lay On Hands**, is replaced with *Death Touch* (*DCC Annual*, #1, Pg 18).
+
+**Turn Unholy** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail *roll the body* check. Combine with *Death Touch* for more fun.
+
+**Fickle Master**: The Anti-Paladin's natural disapproval level is 2 and they use a d5 when rolling on the disapproval table.
 
 </section>
 <section class="" markdown="1">
@@ -209,6 +248,39 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 </section>
 <section markdown="1">
+## Another Village
+
+| R | Name         | Leader         |
+|---|--------------|----------------|
+| 1 | Wortlethorpe | Goomie         |
+| 2 | Bursheer     | Dar Dafa       |
+| 3 | Inkvar       | Village Elders |
+| 4 | Obelast      | Footumch       |
+| 5 | Tigre        | Zankule        |
+| 6 | Boorsville   | Samuel Goodins |
+| 7 | Shiple       | Delphine       |
+<p> </p>
+| R | Of Note             | Strife              |
+|---|---------------------|---------------------|
+| 1 | Poorly led          | No beer             |
+| 2 | Powerful matriarchs | Haunted             |
+| 3 | Seasonal holiday    | Harrased by grubins |
+| 4 | Great shops         | Warring Families    |
+| 5 | A town secret       | A Cult              |
+| 6 | Everyone lies       | Debt                |
+| 7 | The temple          | A town bully        |
+<p> </p>
+| R | Atmosphere           | NPC                          |
+|---|----------------------|------------------------------|
+| 1 | Muddy hole           | Checkson own most everything |
+| 2 | Ramshackle           | Vixa, drinks and talks       |
+| 3 | Smart carriage homes | Suuli, helpful and smart     |
+| 4 | Garden paths         | Dida Groot, healer           |
+| 5 | Spread out           | Plix, runaway                |
+| 6 | Upright homes        | Shoyla, gambler              |
+| 7 | Warm and comfy       | Pingo, wealthy gadabout      |
+</section>
+<section markdown="1">
 ## Slurm Priest
 
 <strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
@@ -218,10 +290,12 @@ A supplicant of its chaos lord, the Slurm Priest is often called to test the for
 
 **Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
-**Swallow:** If bite successful; DC 15 Strength check or be half swallowed. The character will be upside down in the slurm's mouth with arms pinned at the waist and legs kicking. On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way). Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.  Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
-
-Characters who lose Stamina in the Slurm’s stomach have a chance of mutation. 10%/round, cumulative. Minor corruption table modified by luck.
-The Slurm gains -1 attack and -5’ movement per person swallowed. 
+**Swallow:** If bite successful; DC 15 Strength check or be half swallowed.
+The character will be upside down in the slurm's mouth with arms pinned at the waist and legs kicking.
+On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way).
+Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.
+Chance of mutation. 10%/round, cumulative. Minor corruption table modified by luck.
+Swallowed characters who have access to a blade must make DC 15 Strength check to attack. 
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
 
@@ -314,86 +388,13 @@ Bash: DC 15 or prone.
 
 
 </section>
-<section markdown="1">
-## Item
-
-a
-{: .breakbefore}
-
+<section markdown="1" class="clean">
+Last page
 </section>
-<section markdown="1">
-## Another Village
-
-| R | Name         | Leader         |
-|---|--------------|----------------|
-| 1 | Wortlethorpe | Goomie         |
-| 2 | Bursheer     | Dar Dafa       |
-| 3 | Inkvar       | Village Elders |
-| 4 | Obelast      | Footumch       |
-| 5 | Tigre        | Zankule        |
-| 6 | Boorsville   | Samuel Goodins |
-| 7 | Shiple       | Delphine       |
-<p> </p>
-| R | Of Note             | Strife              |
-|---|---------------------|---------------------|
-| 1 | Poorly led          | No beer             |
-| 2 | Powerful matriarchs | Haunted             |
-| 3 | Seasonal holiday    | Harrased by grubins |
-| 4 | Great shops         | Warring Families    |
-| 5 | A town secret       | A Cult              |
-| 6 | Everyone lies       | Debt                |
-| 7 | The temple          | A town bully        |
-<p> </p>
-| R | Atmosphere           | NPC                          |
-|---|----------------------|------------------------------|
-| 1 | Muddy hole           | Checkson own most everything |
-| 2 | Ramshackle           | Vixa, drinks and talks       |
-| 3 | Smart carriage homes | Suuli, helpful and smart     |
-| 4 | Garden paths         | Dida Groot, healer           |
-| 5 | Spread out           | Plix, runaway                |
-| 6 | Upright homes        | Shoyla, gambler              |
-| 7 | Warm and comfy       | Pingo, wealthy gadabout      |
-</section>
-<section markdown="1" class="background">
+<section markdown="1" class="clean">
 inside back cover
 </section>
-<section markdown="1" class="background">
-
-## Paladin
-
-Everything as Cleric except what is below.
-- HD 1d10
-Attack +1 at first level and as Warrior with Mighty Deeds -d1 thereafter
-Caster Level -1
-Higher Standards Disapproval Level begins at 2
-Spells Known -1 per level
-Lucky Weapon as warrior
-
-### Mighty Deed: Smite
-Affects only the unholy. Blade bathed in holy light.
-1:-1 Disapproval
-3: +4 magic damage and roll turn unholy -4 focused on target.
-4: +6 magic damage and roll turn unholy -2 focused on target.
-5: +8 magic damage and unholy of 2 HD or less are killed instantly. Roll turn unholy focused on target.
-6: +10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.
-7+: +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does
-1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target
-
-</section>
-<section markdown="1" class="background">
-
-## Anti-Paladin
-
-As above but must wear black and…
-
-Instead of *Lay On Hands*, use *Death Touch* (*DCC Annual*, #1, Pg 18).
-
-*Turn Unholy* effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail *roll the body* check. Combine with *Death Touch* for more fun.
-
-*Fickle Master*: The Anti-Paladin's natural disapproval level is 2 and they use a d5 when rolling on the disapproval table.
-
-</section>
-<section markdown="1" class="background">
+<section markdown="1" class="clean">
 
 ![](images/coversuper.svg)
 {: .background}
