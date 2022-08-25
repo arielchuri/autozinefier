@@ -236,12 +236,9 @@ Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from
 <section markdown="1">
 ## Slime Grubins
 
-These are standard grubins that have been pickled in the extra-dimensional stomach of the Slurm (see above). 
-
 **Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst (area effect 5'); AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
-Massively bloated into translucent balls.
-These frightened looking grubins roll into battle in numbers.
+Massively bloated into translucent balls in the stomach of the Slurm, these frightened looking grubins roll into battle in numbers.
 They use their full movement to roll right up to the enemy and burst upon taking any damage.
 
 **Puss:** 1d3 to all within 10’.
@@ -256,18 +253,20 @@ They use their full movement to roll right up to the enemy and burst upon taking
 ## Mechanaut
 
 <div markdown="1" class="">
-A large, plate armor knight. A small creature in the head controls this mechanical armor. Usually attacks with a *bash* followed by a sword strike to the prone enemy. If the armor is killed, the head disconnects and flies away. 
+**Mechanaut:** Init +2; Atk Great Sword +3 melee (1d12+3), Bash +6 melee (1d6 + bash); AC 18; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, omnivision, immune to critical hits; SV Fort +10, Ref +1, Will +6; AL N
 
-**Mechanaut:** Init +2; Atk Great Sword +4 melee (1d12+4), Bash +6 melee (1d6 + bash); AC 17; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, infravision, immune to critical hits; SV Fort +10, Ref +1, Will +6; AL N
+A large, plate armor knight.
+A small creature in the head controls this mechanical armor.
+All joints can rotate 360°.
 
-Shock Armor: contact with skin or steel causes shock damage (1d6). Drop your weapon on receiving 5 damage and damage 6 causes DC 20 Fort save or fall prone. 
+Usually attacks with a *bash* followed by a sword strike to the prone enemy.
+If the armor is killed, the head disconnects and flies away. 
 
-*Bash*: DC 15 or prone.
+Shock Armor: contact causes shock damage (1d6). Drop your weapon on receiving 4-5 damage and 6 requires a DC 20 Fort save or fall prone. Water disables.
 
-Water causes it 1d12 damage/round. 
+Bash: DC 15 or prone.
 
-a
-{: .breakbefore}
+<!-- {: .breakbefore} -->
 </div>
 </div>
 </section>
