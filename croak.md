@@ -106,7 +106,74 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 </section>
 <section markdown="1" class="">
+## **Barbarian**
 
+**Hit points:** 1d12 hit points per level
+
+**Weapon training:** A barbarian is trained in the use of these weapons:
+battleaxe, club, crossbow, dagger, handaxe, javelin, longsword, mace,
+polearm, shortbow, short sword, sling, spear, staff, two-handed sword,
+and warhammer. Barbarians may wear any armor but the armor's check
+penalty offsets their natural, agility based, armor class bonus.
+
+Notably absent from the weapons list is the longbow which would require
+additional training to master.
+
+**Armor class:**  The barbarian gains an armor class bonus based on
+their level. This bonus is reduced by any armor check penalty or any
+other agility modifier.
+
+**Attack**: Berserker Die, same as Deed Die but no mighty deeds. Max
+roll on the berserker die and the barbarian goes berserk. The player may
+choose to roll any die lower on the dice chain (make the fight harder to
+make yourself angrier and more likely to go berserk). The player may
+burn a point of Intelligence to avoid entering Berserker Mode.
+
+**Berserker**: When facing a threat and rolling the maximum value on the
+berserker die, the barbarian goes berserk until their are no reachable
+enemies or he/she burns 2 points of intelligence. A berserk barbarian
+adds their level to their armor class. The barbarian gains an additional
+action die -1d on the dice chain from their current lowest action die.
+This action may be used during the current round.
+
+Going berserk imposes the following additional modifiers to saving
+throws; +2 Fort, +2 Reflex, -2 Will.
+
+It is not possible to enter berserk mode at will. In other words, the
+roll that goes berserk must be against a real threat.
+
+After a going berserk the barbarian freaks out.
+
+**Freak Out (d6)**:
+
+1.  Attack closest anything once at -d1 attack and damage.
+2.  Destroy furniture sized object. As above if no object available.
+3.  Strip clothes and bathe in the blood of your enemies.
+4.  Run around screaming in people's faces.
+5.  Victory cry / dance
+6.  Flex
+
+**See Red:** Burn personality to Increase attack, damage and crit rolls
+for 1 round/level. Your armor class is reduced by the same amount.
+
+### **Barbarian Table**
+
+| Lvl | Atk    | Crit     | Threat Range | Action Dice    | AC Bonus | Ref | Fort | Will |
+|-----|--------|----------|--------------|----------------|----------|-----|------|------|
+| 1   | +d3    | 1d12/III | 19-20        | 1d20           | +2       | +1  | +1   | +0   |
+| 2   | +d3    | 1d14/III | 19-20        | 1d20           | +2       | +1  | +2   | +0   |
+| 3   | +d4    | 1d16/IV  | 19-20        | 1d20           | +3       | +1  | +2   | +0   |
+| 4   | +d5    | 1d20/IV  | 18-20        | 1d20           | +3       | +2  | +3   | +1   |
+| 5   | +d6    | 1d24/V   | 18-20        | 1d20+1d16      | +4       | +2  | +4   | +1   |
+| 6   | +d7    | 1d30/V   | 18-20        | 1d20+1d16      | +4       | +2  | +4   | +1   |
+| 7   | +d8    | 1d30/V   | 18-20        | 1d20+1d20      | +5       | +3  | +5   | +2   |
+| 8   | +d10+1 | 2d20/V   | 18-20        | 1d20+1d20      | +5       | +3  | +5   | +2   |
+| 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20      | +6       | +3  | +6   | +2   |
+| 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20+1d16 | +7       | +4  | +6   | +3   |
+
+
+</section>
+<section markdown="1" class="">
 ## Paladin
 
 Everything as Cleric except the following.
