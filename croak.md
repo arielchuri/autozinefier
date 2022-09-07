@@ -108,6 +108,8 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 <section markdown="1" class="">
 ## **Barbarian**
 
+A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s, action dice, and fort save is slightly better than the warrior while the will save and attack bonus are decreased.
+
 **Hit points:** 1d12 hit points per level
 
 **Weapon training:** A barbarian is trained in the use of these weapons:
@@ -131,9 +133,8 @@ burn a point of Intelligence to avoid entering Berserker Mode.
 
 **Berserker**: When facing a threat and rolling the maximum value on the
 berserker die, the barbarian goes berserk until their are no reachable
-enemies or he/she burns 2 points of intelligence. A berserk barbarian
-adds their level to their armor class. The barbarian gains an additional
-action die -1d on the dice chain from their current lowest action die.
+enemies or they burns 2 points of intelligence. A berserk barbarian adds their Fort save to their armor class. The barbarian gains an additional
+action die -1d on the dice chain from their highest action die.
 This action may be used during the current round.
 
 Going berserk imposes the following additional modifiers to saving
@@ -154,7 +155,7 @@ After a going berserk the barbarian freaks out.
 6.  Flex
 
 **See Red:** Burn personality to Increase attack, damage and crit rolls
-for 1 round/level. Your armor class is reduced by the same amount.
+for 1 round. Your armor class is reduced by the same amount.
 
 ### **Barbarian Table**
 
@@ -212,6 +213,79 @@ As above but must wear black and…
 
 </section>
 <section class="" markdown="1">
+
+## **Dark Elf**
+
+**Design notes**
+
+A subclass of Elf that is Thief/Wizard rather than Warrior/Wizard. Has
+spells and Thief skills but both are a bit nerfed. Most items below are
+the lesser of the two between Elf and Thief. Can use luck to aid magic
+but cannot really use spellburn (the dark elf's corrupt body does not
+help with spells).
+
+**Attack** as Thief
+
+**Action Dice** as Thief
+
+**Crit die/table** as Elf
+
+**Spells Known** as Elf -2 and no automatic Patron Bond/Invoke Patron
+
+**Thief Skills** as Thief -1 except *Read From Scroll* as Elf
+
+**Caster Level** -1
+
+**Saving Throws** as Thief
+
+**Luck Die** 1:1 at first level and then as Thief -d1 thereafter.
+
+**Spellburn** Spellburn damage is permanent.
+
+**Corruption** -d1 (d8) when rolling for corruption or patron taint.
+Luck burned to change rolls or avoid corruption is permanent.
+
+**Heal Luck** as Thief
+
+**Thieves'Cant **No but does know a Dark Elf dialect of Elven that has a
+DC 15 Int check chance of being understood by an Elf. Standard Elven is
+the most likely third language known and DC 15 to understand if not.
+
+**Vulnerability** Prolonged contact with iron causes 4hp damage per day
+and -1d on all rolls. Damage from iron weapons causes an additional 1d3
+points of damage.
+
+</section>
+<section class="" markdown="1">
+
+## **Adventurer**
+
+**Design Notes**
+
+Warrior/Thief. Just combined the two and nerfed them both.
+
+**HD** 1d10
+
+**Attack** +1 at first level (no deed) and as Warrior -1d thereafter.
+
+**Crit die/Table** as Dwarf
+
+**Threat Range** as Warrior
+
+**Saving Throws** as Warrior
+
+**Thief Skill** as Thief -1
+
+**Luck Die** No Luck die. Ratio based on Reflex save (ie. 2:1 at 4th
+level).
+
+**Heal Luck** as Thief.
+
+**Thieves'Cant **No
+
+</section>
+<section class="" markdown="1">
+
 ## Halfling Pipeweed
 
 No self respecting halfling is without their pipe and some good pipeweed.
