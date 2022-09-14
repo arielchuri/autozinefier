@@ -7,10 +7,13 @@
 
 </section>
 <section markdown="1" id="contents">
+
 ### Contents
+
 [TOC]
 
 ### Contributors
+
 this is a test of the handwriting.
 
 Every contributor has waived copyright to their work. Anyone can use it for any purpose without attribution.
@@ -19,6 +22,7 @@ Every contributor has waived copyright to their work. Anyone can use it for any 
 - Chris Messemore
 - Daniel Beltran
 - Dave Campbell
+- Kevin Olmstead
 
 
   <a rel="license"
@@ -39,7 +43,9 @@ You can see some of the text I typed below.  This is what I typed to create the 
 
 <pre>
 &lt;section markdown="1"&gt;
+
 ## Ranger
+
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. 
 Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
 
@@ -63,6 +69,7 @@ You can then run the included script called *markdowntopdf.sh*. On my computer, 
 <section class="" markdown="1">
 <!-- ![](images/coversuper.svg) -->
 <!-- {: .background} -->
+
 ## Ranger
 
 You are gristled loner raised by bears, a storied hunter and tracker, a camoflouged predator shooting from the bush. Rangers are warriors of the forest. What they lack in hit points, they make up for in luck and skill.
@@ -84,6 +91,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 **Luck:** Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.
 
 **Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.
+
 ### Ranger Table {: .breakbefore}
 
 | Level | Deed   | Crit     | Threat* | Act         | Ref | Fort | Will |
@@ -106,6 +114,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 </section>
 <section markdown="1" class="">
+
 ## **Barbarian**
 
 A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s, action dice, and fort save is slightly better than the warrior while the will save and attack bonus are decreased.
@@ -172,21 +181,21 @@ for 1 round. Your armor class is reduced by the same amount.
 | 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20      | +6       | +3  | +6   | +2   |
 | 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20+1d16 | +7       | +4  | +6   | +3   |
 
-
 </section>
 <section markdown="1" class="">
+
 ## Paladin
 
 Everything as Cleric except the following.
 
-- HD 1d10
 - Attack +1 at first level and as Warrior with Mighty Deeds -d1 thereafter
-- **Higher Standards**. Disapproval Level begins at 2
+- **Higher Standards**. Disapproval Level begins at 3
 - Weapon training as warrior
 - Spells Known -1 per level
 - Lucky Weapon as warrior
 
 ### Mighty Deed: Smite
+
 Affects only the unholy or evil. Weapon bathed in holy light.
 
 | Roll | Effect                                                                                                                                                                                      |
@@ -209,20 +218,16 @@ As above but must wear black and…
 
 **Turn Unholy** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail *roll the body* check. Combine with *Death Touch* for more fun.
 
-**Fickle Master**: The Anti-Paladin's natural disapproval level is 2 and they use a d5 when rolling on the disapproval table.
+**Fickle Master**: Anti-Paladin's use a d5 when rolling on the disapproval table.
 
 </section>
 <section class="" markdown="1">
 
 ## **Dark Elf**
 
-**Design notes**
+Depending on who you ask, the Dark Elves are the corrupt, outcasts of the high elves or the true carriers of the Elven lineage. What they lack in martial prowess is made up for by their abilities as rogues and assassins. 
 
-A subclass of Elf that is Thief/Wizard rather than Warrior/Wizard. Has
-spells and Thief skills but both are a bit nerfed. Most items below are
-the lesser of the two between Elf and Thief. Can use luck to aid magic
-but cannot really use spellburn (the dark elf's corrupt body does not
-help with spells).
+Dark Elves can heal luck and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.
 
 **Attack** as Thief
 
@@ -302,11 +307,12 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 ![](images/outro.svg)
 {: .forground}
 
-### Pipeweed Foraging Table ### {: .breakbefore}
+### Pipeweed Foraging Table {: .breakbefore}
 
 A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckmod.
 
 <div markdown="1" class="tablewrap">
+
 | Roll  | Name                    | #   | Effect                  | Duration |
 |-------|-------------------------|-----|-------------------------|----------|
 | ≤26   | Nothing found           |     |                         |          |
@@ -327,6 +333,7 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 | 43    | Bladderwort             | 1   | 18 Intelligence, Act -1d| 1 turn   |
 | 44    | Dragon Arum             | 1d3 | +1d All rolls           | 1 turn   |
 | 45+   | Reroll 2x 1d10+34       |     |                         |          |
+
 </div>
 
 <!-- ![](images/outro.svg) -->
@@ -334,6 +341,7 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 </section>
 <section markdown="1">
+
 ## Manifest of the Mundane
 
 ### The Rain DONE
@@ -372,29 +380,26 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 ### A Door
 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Wooden, with a simple lock
+2. Banded iron, barred from one side (probably not this side)
+3. Metal with a warded lock and a grated peephole
+4. False, exploding
+5. Lacks a doorknob, instead sports a barbed metal spike, opens only to those willing to make a blood sacrifice
+6. One-third normal height, passing through shrinks all to 1/3 height; passing back through reverses the effect
+7. Intricately carved with bas relief images that look disoncertingly lifelike
+8. Not a door at all, just a bead curtain covering a doorway
+9. Wood, rotten from some kind of fungus, take care not to get any on you
+10. Magical, will only open to the magic word
+11. Intelligent, must be reasoned with to open
+12. A blackened metal slab with hinges ruined by intense heat. The door is festooned with chains and locks, covered in protective runes, and bound with strong magic.
+13, A regular-sized door with a tiny door inset. When opened they lead to different locations
 
 </section>
 <section markdown="1">
+
 ## Slurm Priest
 
 <strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
-
-This upright, purple worm loves jewelry and profanity. It is always found with the *Slime Grubins* it has excreted. 
-A supplicant of its chaos lord, the Slurm Priest is often called to test the forces of Law. 
 
 **Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
@@ -416,6 +421,7 @@ Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from
 
 </section>
 <section markdown="1">
+
 ## Slime Grubins
 
 **Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst (area effect 5'); AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
@@ -432,9 +438,11 @@ They use their full movement to roll right up to the enemy and burst upon taking
 <!-- {: .breakbefore} -->
 </section>
 <section markdown="1">
+
 ## Mechanaut
 
 <div markdown="1" class="">
+
 **Mechanaut:** Init +2; Atk Great Sword +3 melee (1d12+3), Bash +6 melee (1d6 + bash); AC 18; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, omnivision, immune to critical hits; SV Fort +10, Ref +1, Will +6; AL N
 
 A large, plate armor knight.
@@ -453,6 +461,7 @@ Bash: DC 15 or prone.
 </div>
 </section>
 <section markdown="1">
+
 ## Another Village
 
 | R | Name         | Leader         |
@@ -464,7 +473,9 @@ Bash: DC 15 or prone.
 | 5 | Tigre        | Zankule        |
 | 6 | Boorsville   | Samuel Goodins |
 | 7 | Shiple       | Delphine       |
+
 <p> </p>
+
 | R | Of Note             | Strife              |
 |---|---------------------|---------------------|
 | 1 | Poorly led          | No beer             |
@@ -474,7 +485,9 @@ Bash: DC 15 or prone.
 | 5 | A town secret       | A Cult              |
 | 6 | Everyone lies       | Debt                |
 | 7 | The temple          | A town bully        |
+
 <p> </p>
+
 | R | Atmosphere           | NPC                          |
 |---|----------------------|------------------------------|
 | 1 | Muddy hole           | Checkson own most everything |
@@ -484,10 +497,12 @@ Bash: DC 15 or prone.
 | 5 | Spread out           | Plix, runaway                |
 | 6 | Upright homes        | Shoyla, gambler              |
 | 7 | Warm and comfy       | Pingo, wealthy gadabout      |
+
 </section>
 <section markdown="1">
 
 ## ﻿Slime Crit Table
+
 ### Slime Critical Hit Matrix
 
 | Slime HD | Crit die |
