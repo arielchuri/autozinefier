@@ -186,13 +186,33 @@ for 1 round. Your armor class is reduced by the same amount.
 
 ## Paladin
 
-Everything as Cleric except the following.
+The anointed warrior. Paladins may use *Mighty Deeds* and the all of the powers of the cleric. Though, at some cost.
 
-- Attack +1 at first level and as Warrior with Mighty Deeds -d1 thereafter
-- **Higher Standards**. Disapproval Level begins at 3
-- Weapon training as warrior
+**Hit points:** 1d10/level
+
+**Magic:** See Cleric.
+
+**Higher standards:** The paladin's disapproval level begins at 3 each day.
+
+**Lucky weapon:** A paladin may choose a weapon which receives his original luck modifier.
+
+**Mighty Deeds;** A paladin may use *mighty deeds* as a warrior.
+
 - Spells Known -1 per level
-- Lucky Weapon as warrior
+
+| Lvl | Atk    | Crit      | Act/Deed  | Ref | Fort | Will | Spells |    |    |    |    |
+|-----|--------|-----------|-----------|-----|------|------|--------|----|----|----|----|
+|     |        | Die/Table | Dice      |     |      |      | 1      | 2  | 3  | 4  | 5  |
+| 1   | +1     | 1d10/III  | 1d20      | +0  | +1   | +1   | 4      | -- | -- | -- | -- |
+| 2   | +d3    | 1d12/III  | 1d20      | +0  | +1   | +1   | 5      | -- | -- | -- | -- |
+| 3   | +d4    | 1d14/III  | 1d20      | +1  | +1   | +2   | 5      | 3  | -- | -- | -- |
+| 4   | +d5    | 1d16/IV   | 1d20      | +1  | +2   | +2   | 6      | 4  | -- | -- | -- |
+| 5   | +d6    | 1d20/IV   | 1d20      | +1  | +2   | +3   | 6      | 5  | 2  | -- | -- |
+| 6   | +d7    | 1d24/V    | 1d20+1d14 | +2  | +2   | +4   | 7      | 5  | 3  | -- | -- |
+| 7   | +d8    | 1d30/V    | 1d20+1d16 | +2  | +3   | +4   | 7      | 6  | 4  | 1  | -- |
+| 8   | +d10+1 | 1d30/V    | 1d20+1d20 | +2  | +3   | +5   | 8      | 6  | 5  | 2  | -- |
+| 9   | +d10+2 | 2d20/V    | 1d20+1d20 | +3  | +3   | +5   | 8      | 7  | 5  | 3  | 1  |
+| 10  | +d10+3 | 2d20/V    | 1d20+1d20 | +3  | +4   | +6   | 9      | 7  | 6  | 4  | 2  |
 
 ### Mighty Deed: Smite
 
