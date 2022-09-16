@@ -13,13 +13,11 @@
 <li><a href="#paladin">Paladin</a></li>
 <li><a href="#anti-paladin">Anti-Paladin</a></li>
 <li><a href="#dark-elf">Dark Elf</a></li>
-<li><a href="#adventurer">Adventurer</a></li>
 <li><a href="#halfling-pipeweed">Halfling Pipeweed</a></li>
 <li><a href="#manifest-of-the-mundane">Manifest of the Mundane</a></li>
 <li><a href="#slurm-priest">Slurm Priest</a></li>
 <li><a href="#slime-grubins">Slime Grubins</a></li>
 <li><a href="#mechanaut">Mechanaut</a></li>
-<li><a href="#another-village">Another Village</a></li>
 <li><a href="#slime-crit-table">﻿Slime Crit Table</a></li>
 </ul>
 </div>
@@ -372,15 +370,60 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 </section>
 <section class="">
 <h2 id="paladin">Paladin</h2>
-<p>The anointed warrior. Paladins may use <em>Mighty Deeds</em> and the all of the powers of the cleric. Though, at some cost.</p>
+<p>The anointed warrior. Paladins may use <em>Mighty Deeds</em> and all of the powers of the cleric.</p>
 <p><strong>Hit points:</strong> 1d10/level</p>
-<p><strong>Magic:</strong> See Cleric.</p>
 <p><strong>Higher standards:</strong> The paladin&rsquo;s disapproval level begins at 3 each day.</p>
 <p><strong>Lucky weapon:</strong> A paladin may choose a weapon which receives his original luck modifier.</p>
-<p><strong>Mighty Deeds;</strong> A paladin may use <em>mighty deeds</em> as a warrior.</p>
-<ul>
-<li>Spells Known -1 per level</li>
-</ul>
+<p><strong>Mighty Deeds:</strong> A paladin may use <em>mighty deeds</em> as a warrior.</p>
+<p><strong>Crit range:</strong> Paladins crit on a roll of 19 or 20.</p>
+<h3 id="mighty-deed-smite">Mighty Deed: Smite</h3>
+<p>Affects only the unholy. Weapon bathed in holy light.</p>
+<table>
+<thead>
+<tr>
+<th>Roll</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>-1 Disapproval</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+4 magic damage and roll turn unholy -4 focused on target.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+6 magic damage and roll turn unholy -2 focused on target.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+8 magic damage and unholy of 2 HD or less are killed instantly. Roll turn unholy focused on target.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.</td>
+</tr>
+<tr>
+<td>7+</td>
+<td>+12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="">
+<h2 id="anti-paladin">Anti-Paladin</h2>
+<p>Copy about anti-paladin</p>
+<p><strong>Hit points:</strong> 1d10/level</p>
+<p><strong>Fickle Master</strong>: Anti-Paladin&rsquo;s use a d5 when rolling on the disapproval table</p>
+<p><strong>Lucky weapon:</strong> The Anti-paladin may choose a weapon which receives his original luck modifier.</p>
+<p><strong>Mighty deeds:</strong> An Anti-paladin may use <em>mighty deeds</em> as a warrior.</p>
+<p><strong>Crit range:</strong> Paladins crit on a roll of 19 or 20.</p>
+<p><strong>Lay On Hands</strong>, is replaced with <em>Death Touch</em> (<em>DCC Annual</em>, #1, Pg 18).</p>
+<p><strong>Turn Unholy</strong> effects the same creatures as a lawful Cleric, but makes them your slaves. Use the <em>Turn Unholy</em> table but, the turned fight for you for the amount of time listed. </p>
+<h3 id="paladin-anti-paladin-table">Paladin /Anti- Paladin Table</h3>
 <table>
 <thead>
 <tr>
@@ -421,7 +464,7 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+0</td>
 <td>+1</td>
 <td>+1</td>
-<td>4</td>
+<td>2</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
@@ -435,7 +478,7 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+0</td>
 <td>+1</td>
 <td>+1</td>
-<td>5</td>
+<td>3</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
@@ -449,8 +492,8 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+1</td>
 <td>+1</td>
 <td>+2</td>
-<td>5</td>
 <td>3</td>
+<td>1</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
@@ -463,8 +506,8 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+1</td>
 <td>+2</td>
 <td>+2</td>
-<td>6</td>
 <td>4</td>
+<td>2</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
@@ -477,9 +520,9 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+1</td>
 <td>+2</td>
 <td>+3</td>
-<td>6</td>
-<td>5</td>
-<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>&ndash;</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 </tr>
@@ -491,9 +534,9 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+2</td>
 <td>+2</td>
 <td>+4</td>
-<td>7</td>
 <td>5</td>
 <td>3</td>
+<td>1</td>
 <td>&ndash;</td>
 <td>&ndash;</td>
 </tr>
@@ -505,10 +548,10 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+2</td>
 <td>+3</td>
 <td>+4</td>
-<td>7</td>
-<td>6</td>
+<td>5</td>
 <td>4</td>
-<td>1</td>
+<td>2</td>
+<td>&ndash;</td>
 <td>&ndash;</td>
 </tr>
 <tr>
@@ -519,10 +562,10 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+2</td>
 <td>+3</td>
 <td>+5</td>
-<td>8</td>
 <td>6</td>
-<td>5</td>
-<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 <td>&ndash;</td>
 </tr>
 <tr>
@@ -533,11 +576,11 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+3</td>
 <td>+3</td>
 <td>+5</td>
-<td>8</td>
-<td>7</td>
+<td>6</td>
 <td>5</td>
 <td>3</td>
-<td>1</td>
+<td>2</td>
+<td>&ndash;</td>
 </tr>
 <tr>
 <td>10</td>
@@ -547,57 +590,14 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td>+3</td>
 <td>+4</td>
 <td>+6</td>
-<td>9</td>
 <td>7</td>
-<td>6</td>
-<td>4</td>
-<td>2</td>
-</tr>
-</tbody>
-</table>
-<h3 id="mighty-deed-smite">Mighty Deed: Smite</h3>
-<p>Affects only the unholy or evil. Weapon bathed in holy light.</p>
-<table>
-<thead>
-<tr>
-<th>Roll</th>
-<th>Effect</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>-1 Disapproval</td>
-</tr>
-<tr>
-<td>3</td>
-<td>+4 magic damage and roll turn unholy -4 focused on target.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>+6 magic damage and roll turn unholy -2 focused on target.</td>
-</tr>
-<tr>
 <td>5</td>
-<td>+8 magic damage and unholy of 2 HD or less are killed instantly. Roll turn unholy focused on target.</td>
-</tr>
-<tr>
-<td>6</td>
-<td>+10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.</td>
-</tr>
-<tr>
-<td>7+</td>
-<td>+12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
-</section>
-<section class="">
-<h2 id="anti-paladin">Anti-Paladin</h2>
-<p>As above but must wear black and…</p>
-<p><strong>Lay On Hands</strong>, is replaced with <em>Death Touch</em> (<em>DCC Annual</em>, #1, Pg 18).</p>
-<p><strong>Turn Unholy</strong> effects the same creatures as a lawful Cleric, but makes them your slaves. Use the <em>Turn Unholy</em> table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail <em>roll the body</em> check. Combine with <em>Death Touch</em> for more fun.</p>
-<p><strong>Fickle Master</strong>: Anti-Paladin&rsquo;s use a d5 when rolling on the disapproval table.</p>
 </section>
 <section class="">
 <h2 id="dark-elf"><strong>Dark Elf</strong></h2>
@@ -621,21 +621,6 @@ the most likely third language known and DC 15 to understand if not.</p>
 <p><strong>Vulnerability</strong> Prolonged contact with iron causes 4hp damage per day
 and -1d on all rolls. Damage from iron weapons causes an additional 1d3
 points of damage.</p>
-</section>
-<section class="">
-<h2 id="adventurer"><strong>Adventurer</strong></h2>
-<p><strong>Design Notes</strong></p>
-<p>Warrior/Thief. Just combined the two and nerfed them both.</p>
-<p><strong>HD</strong> 1d10</p>
-<p><strong>Attack</strong> +1 at first level (no deed) and as Warrior -1d thereafter.</p>
-<p><strong>Crit die/Table</strong> as Dwarf</p>
-<p><strong>Threat Range</strong> as Warrior</p>
-<p><strong>Saving Throws</strong> as Warrior</p>
-<p><strong>Thief Skill</strong> as Thief -1</p>
-<p><strong>Luck Die</strong> No Luck die. Ratio based on Reflex save (ie. 2:1 at 4th
-level).</p>
-<p><strong>Heal Luck</strong> as Thief.</p>
-<p><strong>Thieves&rsquo;Cant </strong>No</p>
 </section>
 <section class="">
 <h2 id="halfling-pipeweed">Halfling Pipeweed</h2>
@@ -843,13 +828,18 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 <li>Wood, rotten from some kind of fungus, take care not to get any on you</li>
 <li>Magical, will only open to the magic word</li>
 <li>Intelligent, must be reasoned with to open</li>
-<li>A blackened metal slab with hinges ruined by intense heat. The door is festooned with chains and locks, covered in protective runes, and bound with strong magic.
-13, A regular-sized door with a tiny door inset. When opened they lead to different locations</li>
+<li>A blackened metal slab with hinges ruined by intense heat. The door is festooned with chains and locks, covered in protective runes, and bound with strong magic.</li>
+<li>A regular-sized door with a tiny door inset. When opened they lead to different locations</li>
+<li>
+<ul>
+<li>_ _</li>
+</ul>
+</li>
 </ol>
 </section>
 <section>
 <h2 id="slurm-priest">Slurm Priest</h2>
-<p><strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10&rsquo; (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25&rsquo;; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.</p>
+<p><strong>Slurm Priest</strong> Init +2; Atk bite +4 ranged 10&rsquo; (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25&rsquo;; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.</p>
 <p><strong>Disgust:</strong> Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. </p>
 <p><strong>Swallow:</strong> If bite successful; DC 15 Strength check or be half swallowed.
 The character will be upside down in the slurm&rsquo;s mouth with arms pinned at the waist and legs kicking.
@@ -889,149 +879,7 @@ If the armor is killed, the head disconnects and flies away. </p>
 </div>
 </div>
 </section>
-<section>
-<h2 id="another-village">Another Village</h2>
-<table>
-<thead>
-<tr>
-<th>R</th>
-<th>Name</th>
-<th>Leader</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Wortlethorpe</td>
-<td>Goomie</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Bursheer</td>
-<td>Dar Dafa</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Inkvar</td>
-<td>Village Elders</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Obelast</td>
-<td>Footumch</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Tigre</td>
-<td>Zankule</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Boorsville</td>
-<td>Samuel Goodins</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Shiple</td>
-<td>Delphine</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table>
-<thead>
-<tr>
-<th>R</th>
-<th>Of Note</th>
-<th>Strife</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Poorly led</td>
-<td>No beer</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Powerful matriarchs</td>
-<td>Haunted</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Seasonal holiday</td>
-<td>Harrased by grubins</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Great shops</td>
-<td>Warring Families</td>
-</tr>
-<tr>
-<td>5</td>
-<td>A town secret</td>
-<td>A Cult</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Everyone lies</td>
-<td>Debt</td>
-</tr>
-<tr>
-<td>7</td>
-<td>The temple</td>
-<td>A town bully</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table>
-<thead>
-<tr>
-<th>R</th>
-<th>Atmosphere</th>
-<th>NPC</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Muddy hole</td>
-<td>Checkson own most everything</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ramshackle</td>
-<td>Vixa, drinks and talks</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Smart carriage homes</td>
-<td>Suuli, helpful and smart</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Garden paths</td>
-<td>Dida Groot, healer</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Spread out</td>
-<td>Plix, runaway</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Upright homes</td>
-<td>Shoyla, gambler</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Warm and comfy</td>
-<td>Pingo, wealthy gadabout</td>
-</tr>
-</tbody>
-</table>
-</section>
+<section></section>
 <section>
 <h2 id="slime-crit-table">﻿Slime Crit Table</h2>
 <h3 id="slime-critical-hit-matrix">Slime Critical Hit Matrix</h3>
@@ -1130,6 +978,16 @@ If the armor is killed, the head disconnects and flies away. </p>
 <td>13</td>
 <td>Muck Mitosis! Slime drains plasma for an additional 1d8 damage. Part of the slime breaks out and becomes a second slime (of random kind) with 1d8 HP. Second slime immediately attacks.</td>
 </tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Roll</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>14</td>
 <td>Sludge Seizure! Slime tendrils control you like a marionette. You get a DC 20 Strength check to break free each round. While controlled the slime uses you to attack with 1d20 + 4 (1d4) blows.</td>

@@ -186,37 +186,21 @@ for 1 round. Your armor class is reduced by the same amount.
 
 ## Paladin
 
-The anointed warrior. Paladins may use *Mighty Deeds* and the all of the powers of the cleric. Though, at some cost.
+The anointed warrior. Paladins may use *Mighty Deeds* and all of the powers of the cleric.
 
 **Hit points:** 1d10/level
-
-**Magic:** See Cleric.
 
 **Higher standards:** The paladin's disapproval level begins at 3 each day.
 
 **Lucky weapon:** A paladin may choose a weapon which receives his original luck modifier.
 
-**Mighty Deeds;** A paladin may use *mighty deeds* as a warrior.
+**Mighty Deeds:** A paladin may use *mighty deeds* as a warrior.
 
-- Spells Known -1 per level
-
-| Lvl | Atk    | Crit      | Act/Deed  | Ref | Fort | Will | Spells |    |    |    |    |
-|-----|--------|-----------|-----------|-----|------|------|--------|----|----|----|----|
-|     |        | Die/Table | Dice      |     |      |      | 1      | 2  | 3  | 4  | 5  |
-| 1   | +1     | 1d10/III  | 1d20      | +0  | +1   | +1   | 4      | -- | -- | -- | -- |
-| 2   | +d3    | 1d12/III  | 1d20      | +0  | +1   | +1   | 5      | -- | -- | -- | -- |
-| 3   | +d4    | 1d14/III  | 1d20      | +1  | +1   | +2   | 5      | 3  | -- | -- | -- |
-| 4   | +d5    | 1d16/IV   | 1d20      | +1  | +2   | +2   | 6      | 4  | -- | -- | -- |
-| 5   | +d6    | 1d20/IV   | 1d20      | +1  | +2   | +3   | 6      | 5  | 2  | -- | -- |
-| 6   | +d7    | 1d24/V    | 1d20+1d14 | +2  | +2   | +4   | 7      | 5  | 3  | -- | -- |
-| 7   | +d8    | 1d30/V    | 1d20+1d16 | +2  | +3   | +4   | 7      | 6  | 4  | 1  | -- |
-| 8   | +d10+1 | 1d30/V    | 1d20+1d20 | +2  | +3   | +5   | 8      | 6  | 5  | 2  | -- |
-| 9   | +d10+2 | 2d20/V    | 1d20+1d20 | +3  | +3   | +5   | 8      | 7  | 5  | 3  | 1  |
-| 10  | +d10+3 | 2d20/V    | 1d20+1d20 | +3  | +4   | +6   | 9      | 7  | 6  | 4  | 2  |
+**Crit range:** Paladins crit on a roll of 19 or 20.
 
 ### Mighty Deed: Smite
 
-Affects only the unholy or evil. Weapon bathed in holy light.
+Affects only the unholy. Weapon bathed in holy light.
 
 | Roll | Effect                                                                                                                                                                                      |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -232,13 +216,37 @@ Affects only the unholy or evil. Weapon bathed in holy light.
 
 ## Anti-Paladin
 
-As above but must wear black and…
+Copy about anti-paladin
+
+**Hit points:** 1d10/level
+
+**Fickle Master**: Anti-Paladin's use a d5 when rolling on the disapproval table
+
+**Lucky weapon:** The Anti-paladin may choose a weapon which receives his original luck modifier.
+
+**Mighty deeds:** An Anti-paladin may use *mighty deeds* as a warrior.
+
+**Crit range:** Paladins crit on a roll of 19 or 20.
 
 **Lay On Hands**, is replaced with *Death Touch* (*DCC Annual*, #1, Pg 18).
 
-**Turn Unholy** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. Additionally, the recently deceased rise as well though their stats are usually poor. PCs are not deceased until they a fail *roll the body* check. Combine with *Death Touch* for more fun.
+**Turn Unholy** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. 
 
-**Fickle Master**: Anti-Paladin's use a d5 when rolling on the disapproval table.
+### Paladin /Anti- Paladin Table
+
+| Lvl | Atk    | Crit      | Act/Deed  | Ref | Fort | Will | Spells |    |    |    |    |
+|-----|--------|-----------|-----------|-----|------|------|--------|----|----|----|----|
+|     |        | Die/Table | Dice      |     |      |      | 1      | 2  | 3  | 4  | 5  |
+| 1   | +1     | 1d10/III  | 1d20      | +0  | +1   | +1   | 2      | -- | -- | -- | -- |
+| 2   | +d3    | 1d12/III  | 1d20      | +0  | +1   | +1   | 3      | -- | -- | -- | -- |
+| 3   | +d4    | 1d14/III  | 1d20      | +1  | +1   | +2   | 3      | 1  | -- | -- | -- |
+| 4   | +d5    | 1d16/IV   | 1d20      | +1  | +2   | +2   | 4      | 2  | -- | -- | -- |
+| 5   | +d6    | 1d20/IV   | 1d20      | +1  | +2   | +3   | 4      | 3  | -- | -- | -- |
+| 6   | +d7    | 1d24/V    | 1d20+1d14 | +2  | +2   | +4   | 5      | 3  | 1  | -- | -- |
+| 7   | +d8    | 1d30/V    | 1d20+1d16 | +2  | +3   | +4   | 5      | 4  | 2  | -- | -- |
+| 8   | +d10+1 | 1d30/V    | 1d20+1d20 | +2  | +3   | +5   | 6      | 4  | 3  | 1  | -- |
+| 9   | +d10+2 | 2d20/V    | 1d20+1d20 | +3  | +3   | +5   | 6      | 5  | 3  | 2  | -- |
+| 10  | +d10+3 | 2d20/V    | 1d20+1d20 | +3  | +4   | +6   | 7      | 5  | 4  | 3  | 1  |
 
 </section>
 <section class="" markdown="1">
@@ -279,34 +287,6 @@ the most likely third language known and DC 15 to understand if not.
 **Vulnerability** Prolonged contact with iron causes 4hp damage per day
 and -1d on all rolls. Damage from iron weapons causes an additional 1d3
 points of damage.
-
-</section>
-<section class="" markdown="1">
-
-## **Adventurer**
-
-**Design Notes**
-
-Warrior/Thief. Just combined the two and nerfed them both.
-
-**HD** 1d10
-
-**Attack** +1 at first level (no deed) and as Warrior -1d thereafter.
-
-**Crit die/Table** as Dwarf
-
-**Threat Range** as Warrior
-
-**Saving Throws** as Warrior
-
-**Thief Skill** as Thief -1
-
-**Luck Die** No Luck die. Ratio based on Reflex save (ie. 2:1 at 4th
-level).
-
-**Heal Luck** as Thief.
-
-**Thieves'Cant **No
 
 </section>
 <section class="" markdown="1">
@@ -412,14 +392,15 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 10. Magical, will only open to the magic word
 11. Intelligent, must be reasoned with to open
 12. A blackened metal slab with hinges ruined by intense heat. The door is festooned with chains and locks, covered in protective runes, and bound with strong magic.
-13, A regular-sized door with a tiny door inset. When opened they lead to different locations
+13. A regular-sized door with a tiny door inset. When opened they lead to different locations
+14. - _ _
 
 </section>
 <section markdown="1">
 
 ## Slurm Priest
 
-<strong>Slurm Priest:</strong> Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
+**Slurm Priest** Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
 
 **Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
@@ -482,42 +463,6 @@ Bash: DC 15 or prone.
 </section>
 <section markdown="1">
 
-## Another Village
-
-| R | Name         | Leader         |
-|---|--------------|----------------|
-| 1 | Wortlethorpe | Goomie         |
-| 2 | Bursheer     | Dar Dafa       |
-| 3 | Inkvar       | Village Elders |
-| 4 | Obelast      | Footumch       |
-| 5 | Tigre        | Zankule        |
-| 6 | Boorsville   | Samuel Goodins |
-| 7 | Shiple       | Delphine       |
-
-<p> </p>
-
-| R | Of Note             | Strife              |
-|---|---------------------|---------------------|
-| 1 | Poorly led          | No beer             |
-| 2 | Powerful matriarchs | Haunted             |
-| 3 | Seasonal holiday    | Harrased by grubins |
-| 4 | Great shops         | Warring Families    |
-| 5 | A town secret       | A Cult              |
-| 6 | Everyone lies       | Debt                |
-| 7 | The temple          | A town bully        |
-
-<p> </p>
-
-| R | Atmosphere           | NPC                          |
-|---|----------------------|------------------------------|
-| 1 | Muddy hole           | Checkson own most everything |
-| 2 | Ramshackle           | Vixa, drinks and talks       |
-| 3 | Smart carriage homes | Suuli, helpful and smart     |
-| 4 | Garden paths         | Dida Groot, healer           |
-| 5 | Spread out           | Plix, runaway                |
-| 6 | Upright homes        | Shoyla, gambler              |
-| 7 | Warm and comfy       | Pingo, wealthy gadabout      |
-
 </section>
 <section markdown="1">
 
@@ -551,6 +496,9 @@ Bash: DC 15 or prone.
 | 11        | Slime envelopes you. Dissolve at 1d6 HP and suffocate at 1d6 Stamina per round. DC 15 Strength check to get halfway out.                                                                                                                                                             |
 | 12        | Eyes turn to jelly. You see...                                                                                                                                                                                                                                                       |
 | 13        | Muck Mitosis! Slime drains plasma for an additional 1d8 damage. Part of the slime breaks out and becomes a second slime (of random kind) with 1d8 HP. Second slime immediately attacks.                                                                                              |
+
+| Roll      | Result                                                                                                                                                                                                                                                                               |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14        | Sludge Seizure! Slime tendrils control you like a marionette. You get a DC 20 Strength check to break free each round. While controlled the slime uses you to attack with 1d20 + 4 (1d4) blows.                                                                                      |
 | 15        | Mephitic Mud! The slime's residue leaves a terrible odour on you, you suffer -2d to all Personality checks with anything that can smell for 1 week                                                                                                                                   |
 | 16        | Sticky Situation! Slime secretions splash on your body making it sticky. You easily stick to everything and can effortlessly move along surfaces at all angles as if affected by a roll of 11 on the Spider Climb spell for 1 day                                                    |
