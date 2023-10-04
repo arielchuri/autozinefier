@@ -259,7 +259,6 @@ Dark Elves can heal luck and use it to cast spells, but cannot spellburn except 
 
 **Attack** as Thief
 
-**Action Dice** as Thief
 
 **Crit die/table** as Elf
 
@@ -287,6 +286,21 @@ the most likely third language known and DC 15 to understand if not.
 **Vulnerability** Prolonged contact with iron causes 4hp damage per day
 and -1d on all rolls. Damage from iron weapons causes an additional 1d3
 points of damage.
+
+### Dark Elf Table
+
+| Lvl | Atk    | Crit     | Threat Range | Action Dice | AC Bonus | Ref | Fort | Will |
+|-----|--------|----------|--------------|-------------|----------|-----|------|------|
+| 1   | +d3    | 1d12/III | 19-20        | 1d20        | +2       | +1  | +1   | +0   |
+| 2   | +d3    | 1d14/III | 19-20        | 1d20        | +2       | +1  | +2   | +0   |
+| 3   | +d4    | 1d16/IV  | 19-20        | 1d20        | +3       | +1  | +2   | +0   |
+| 4   | +d5    | 1d20/IV  | 18-20        | 1d20        | +3       | +2  | +3   | +1   |
+| 5   | +d6    | 1d24/V   | 18-20        | 1d20        | +4       | +2  | +4   | +1   |
+| 6   | +d7    | 1d30/V   | 18-20        | 1d20+1d14   | +4       | +2  | +4   | +1   |
+| 7   | +d8    | 1d30/V   | 18-20        | 1d20+1d16   | +5       | +3  | +5   | +2   |
+| 8   | +d10+1 | 2d20/V   | 18-20        | 1d20+1d20   | +5       | +3  | +5   | +2   |
+| 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20   | +6       | +3  | +6   | +2   |
+| 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20   | +7       | +4  | +6   | +3   |
 
 </section>
 <section class="" markdown="1">
@@ -338,62 +352,6 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 <!-- ![](images/outro.svg) -->
 <!-- {: .forground} -->
-
-</section>
-<section markdown="1">
-
-## Manifest of the Mundane
-
-### The Rain DONE
-
-1. Never reaches the surface or extinguishes torches
-1. Completely deafens anyone it touches for as long as they remain wet
-1. Feels oily, but will not ignite
-1. Glows phosphorescencely orange for 1d5 rounds
-1. Causes spiders to develop from droplets and quickly skitter away
-1. Feels preternaturally **1.** cold **2.** hot
-1. Emanates from the face of a maiden in the clouds
-1. Causes crime in its wake
-1. Withers plants and foliage to a deep black, but has no effect on creatures
-1. Smells coppery, but has no taste
-1. Creates warts that fall off in 1d7 days
-1. Contains a coarse brown fur
-1. Has a name
-1. Taste like a fine vintage port (still appears as a clear liquid without smell)
-
-### A Book
-
-1. Has an author with the exact same name as the reader
-1. Smells like a rotten corpse
-1. Causes the reader to experience a headache
-1. Smokes for 1d5 minutes
-1. Will become misplaced if not carefully watched
-1. Contains the seal of an ancient scion of law
-1. Opens to reveal a strange feather clearly used to mark the page
-1. Details the location of a **1.** unmapped oasis **2.** hidden kingdom **3.** pit with no bottom **4.** a mysterious stone
-1. Has a heartbeat.  If opened, the book will die.
-1. Contains the most beautiful illustrations you’ve ever seen. You do not want to part with this tome.
-1. Is written in ink that is only visible in complete darkness
-1. Contains a palimpsest of demon summoning.
-1. Agents of a great wizard hunt it.
-1. 
-
-### A Door
-
-1. Wooden, with a simple lock
-2. Banded iron, barred from one side (probably not this side)
-3. Metal with a warded lock and a grated peephole
-4. False, exploding
-5. Lacks a doorknob, instead sports a barbed metal spike, opens only to those willing to make a blood sacrifice
-6. One-third normal height, passing through shrinks all to 1/3 height; passing back through reverses the effect
-7. Intricately carved with bas relief images that look disoncertingly lifelike
-8. Not a door at all, just a bead curtain covering a doorway
-9. Wood, rotten from some kind of fungus, take care not to get any on you
-10. Magical, will only open to the magic word
-11. Intelligent, must be reasoned with to open
-12. A blackened metal slab with hinges ruined by intense heat. The door is festooned with chains and locks, covered in protective runes, and bound with strong magic.
-13. A regular-sized door with a tiny door inset. When opened they lead to different locations
-14. - _ _
 
 </section>
 <section markdown="1">
@@ -462,54 +420,6 @@ Bash: DC 15 or prone.
 </div>
 </section>
 <section markdown="1">
-
-</section>
-<section markdown="1">
-
-## ﻿Slime Crit Table
-
-### Slime Critical Hit Matrix
-
-| Slime HD | Crit die |
-|----------|----------|
-| 1-3      | d3       |
-| 4-8      | d5       |
-| 9-14     | d7       |
-| 15-17    | d14      |
-| 18-19    | d16      |
-| 20+      | d24      |
-	
-### Crit Table S: Slimes
-
-| Roll      | Result                                                                                                                                                                                                                                                                               |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 or less | Slime causes mild rash. You’re itchy for 1d3 days.                                                                                                                                                                                                                                   |
-| 2         | Slime gets in your mouth. Lose your sense of taste.                                                                                                                                                                                                                                  |
-| 3         | Allergic reaction to slime! You take 1d3 points of damage each day until healed.                                                                                                                                                                                                     |
-| 4         | Whatever object you hold in your right hand gets stuck there and is unremovable for 1d4 days                                                                                                                                                                                         |
-| 5         | Your feet get stuck to the ground for 1d4 rounds                                                                                                                                                                                                                                     |
-| 6         | Slime hit splashes into face, slime hits eye. You are blinded by the attack for 1d6 rounds plus whatever extra effect the slime does.                                                                                                                                                |
-| 7         | Slime envelopes your legs. 1d6 damage, movement reduced by half until healed.                                                                                                                                                                                                        |
-| 8         | Direct hit to the mouth. Ooze fills your belly. Slime auto hits for 1d3 turns unless healed for any amount.                                                                                                                                                                          |
-| 9         | Full face of ooze. Eyes burn out in 2d3 rounds.                                                                                                                                                                                                                                      |
-| 10        | Sword hand engulfed. DC 15 Strength.                                                                                                                                                                                                                                                 |
-| 11        | Slime envelopes you. Dissolve at 1d6 HP and suffocate at 1d6 Stamina per round. DC 15 Strength check to get halfway out.                                                                                                                                                             |
-| 12        | Eyes turn to jelly. You see...                                                                                                                                                                                                                                                       |
-| 13        | Muck Mitosis! Slime drains plasma for an additional 1d8 damage. Part of the slime breaks out and becomes a second slime (of random kind) with 1d8 HP. Second slime immediately attacks.                                                                                              |
-
-| Roll      | Result                                                                                                                                                                                                                                                                               |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14        | Sludge Seizure! Slime tendrils control you like a marionette. You get a DC 20 Strength check to break free each round. While controlled the slime uses you to attack with 1d20 + 4 (1d4) blows.                                                                                      |
-| 15        | Mephitic Mud! The slime's residue leaves a terrible odour on you, you suffer -2d to all Personality checks with anything that can smell for 1 week                                                                                                                                   |
-| 16        | Sticky Situation! Slime secretions splash on your body making it sticky. You easily stick to everything and can effortlessly move along surfaces at all angles as if affected by a roll of 11 on the Spider Climb spell for 1 day                                                    |
-| 17        | Mired Boots - Target of the attack receives -2 to reflex saves and +1d to Fumble Rolls until slime has been removed from boots.                                                                                                                                                      |
-| 18        | Enslimed Extremities! Hands turn to jelly. Attack d14 until magically                                                                                                                                                                                                                |
-| 19        | Ooze Osmosis! Part of the slime integrates with your body. Lose 1d5 Stamina and 1d3 HP per round. If Stamina goes to zero before you die, become a jelly person. A skeleton in a transparent body with the slices powers. Takes over brain in 1d30 days.                             |
-| 20        | Slimed! - Slime has deposited part of itself upon target's head. Roll a d4 - (1) Eyes - Target receives -2 to attack rolls, (2) Ears - Target is deafened, (3) Mouth - Target is unable to communicate, (4) Target suffers results of 1, 2, and 3.  In effect until slime is removed |
-| 22        | Slime reduces you to 1 hp and splits into three slimes.                                                                                                                                                                                                                              |
-| 23        | Slime slides under your clothes. Three succesful attack and one more each round. Cannot be removed.                                                                                                                                                                                  |
-| 24        | Crud Coup! Slime gushes through every pore in your body. You are the jelly person! Gain all ooze powers, 1d4 HP, and heal +1hp/day.                                                                                                                                                  |
-
 
 </section>
 <section markdown="1" class="clean">
