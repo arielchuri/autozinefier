@@ -14,8 +14,6 @@
 
 ### Contributors
 
-this is a test of the handwriting.
-
 Every contributor has waived copyright to their work. Anyone can use it for any purpose without attribution.
 
 - Ariel Churi
@@ -186,7 +184,9 @@ for 1 round. Your armor class is reduced by the same amount.
 
 ## Paladin
 
-The anointed warrior. Paladins may use *Mighty Deeds* and all of the powers of the cleric.
+The anointed warrior. Paladins may use all of the powers of the cleric and *Mighty Deeds* upon reaching level 2. God's warrior is held to higher standards then most.
+
+The paladin uses the same table as the Anti-Paladin (see next).
 
 **Hit points:** 1d10/level
 
@@ -211,6 +211,9 @@ Affects only the unholy. Weapon bathed in holy light.
 | 6    | +10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.                                      |
 | 7+   | +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target |
 
+</section>
+<section markdown="1" class="clean">
+Paladin Image
 </section>
 <section markdown="1" class="">
 
@@ -249,58 +252,63 @@ Copy about anti-paladin
 | 10  | +d10+3 | 2d20/V    | 1d20+1d20 | +3  | +4   | +6   | 7      | 5  | 4  | 3  | 1  |
 
 </section>
+<section markdown="1" class="clean">
+Anti-Paladin Image
+</section>
 <section class="" markdown="1">
 
 ## **Dark Elf**
 
 Depending on who you ask, the Dark Elves are the corrupt, outcasts of the high elves or the true carriers of the Elven lineage. What they lack in martial prowess is made up for by their abilities as rogues and assassins. 
 
-Dark Elves can heal luck and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.
+Dark Elves can heal 1 luck per day and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.
 
-**Attack** as Thief
+Dark Elves share common elf traits such as infravision, a lucky spell, immunity to magical sleep and paralysis, and heigtened senses.
 
+**Spells Known** as Elf -2 and no automatic Patron Bond/Invoke Patron.
 
-**Crit die/table** as Elf
-
-**Spells Known** as Elf -2 and no automatic Patron Bond/Invoke Patron
-
-**Thief Skills** as Thief -1 except *Read From Scroll* as Elf
-
-**Caster Level** -1
-
-**Saving Throws** as Thief
+**Caster Level** Dark elves cast at 1 less than their caster level.
 
 **Luck Die** 1:1 at first level and then as Thief -d1 thereafter.
 
-**Spellburn** Spellburn damage is permanent.
+**Spellburn** Spellburn damage is permanent except for luck.
 
 **Corruption** -d1 (d8) when rolling for corruption or patron taint.
-Luck burned to change rolls or avoid corruption is permanent.
+Luck burned to avoid corruption is permanent.
 
-**Heal Luck** as Thief
-
-**Thieves'Cant **No but does know a Dark Elf dialect of Elven that has a
+**Languages ** Knows a Dark Elf dialect of Elven that has a
 DC 15 Int check chance of being understood by an Elf. Standard Elven is
 the most likely third language known and DC 15 to understand if not.
 
 **Vulnerability** Prolonged contact with iron causes 4hp damage per day
-and -1d on all rolls. Damage from iron weapons causes an additional 1d3
-points of damage.
+and -1d on all rolls. Damage from iron weapons causes an additional 1
+point of damage.
 
-### Dark Elf Table
+### Dark Elf Table {: .breakbefore}
 
-| Lvl | Atk    | Crit     | Threat Range | Action Dice | AC Bonus | Ref | Fort | Will |
-|-----|--------|----------|--------------|-------------|----------|-----|------|------|
-| 1   | +d3    | 1d12/III | 19-20        | 1d20        | +2       | +1  | +1   | +0   |
-| 2   | +d3    | 1d14/III | 19-20        | 1d20        | +2       | +1  | +2   | +0   |
-| 3   | +d4    | 1d16/IV  | 19-20        | 1d20        | +3       | +1  | +2   | +0   |
-| 4   | +d5    | 1d20/IV  | 18-20        | 1d20        | +3       | +2  | +3   | +1   |
-| 5   | +d6    | 1d24/V   | 18-20        | 1d20        | +4       | +2  | +4   | +1   |
-| 6   | +d7    | 1d30/V   | 18-20        | 1d20+1d14   | +4       | +2  | +4   | +1   |
-| 7   | +d8    | 1d30/V   | 18-20        | 1d20+1d16   | +5       | +3  | +5   | +2   |
-| 8   | +d10+1 | 2d20/V   | 18-20        | 1d20+1d20   | +5       | +3  | +5   | +2   |
-| 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20   | +6       | +3  | +6   | +2   |
-| 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20   | +7       | +4  | +6   | +3   |
+| Lvl | Atk | Crit      | Action Dice | Luck Die | Ref | Fort | Will |
+|-----|-----|-----------|-------------|----------|-----|------|------|
+| 1   | +0  | 1d8/II    | 1d20        | 1 point  | +1  | +1   | +0   |
+| 2   | +1  | 1d10/II   | 1d20        | d3       | +1  | +2   | +0   |
+| 3   | +2  | 1d12/II   | 1d20        | d4       | +1  | +2   | +1   |
+| 4   | +2  | 1d14/II   | 1d20        | d5       | +2  | +3   | +1   |
+| 5   | +3  | 1d16/II   | 1d20        | d5       | +2  | +4   | +1   |
+| 6   | +4  | 1d20/II   | 1d20+1d14   | d6       | +2  | +4   | +2   |
+| 7   | +5  | 1d24/II   | 1d20+1d16   | d7       | +3  | +5   | +2   |
+| 8   | +5  | 1d30/II   | 1d20+1d20   | d7       | +3  | +5   | +2   |
+| 9   | +6  | 1d30+2/II | 1d20+1d20   | d8       | +3  | +6   | +3   |
+| 10  | +7  | 1d30+4/II | 1d20+1d20   | d10      | +4  | +6   | +3   |
+
+### Dark Elf Skills
+
+| Skill                | 1  | 2  | 3  | 4  | 5  | 6   | 7   | 8   | 9   | 10  |
+|----------------------|----|----|----|----|----|-----|-----|-----|-----|-----|
+| Backstab             | +3 | +5 | +7 | +8 | +9 | +11 | +12 | +13 | +14 | +15 |
+| Sneak silently*      | +3 | +5 | +7 | +8 | +9 | +11 | +12 | +13 | +14 | +15 |
+| Hide in shadows*     | +3 | +5 | +7 | +8 | +9 | +11 | +12 | +13 | +14 | +15 |
+| Climb sheer surfaces | +1 | +3 | +5 | +7 | +8 | +9  | +10 | +11 | +12 | +13 |
+| Find trap            | +3 | +5 | +7 | +8 | +9 | +11 | +12 | +13 | +14 | +15 |
+| Handle poison        | +0 | +1 | +3 | +5 | +7 | +8  | +9  | +10 | +11 | +12 |
 
 </section>
 <section class="" markdown="1">
@@ -402,10 +410,10 @@ They use their full movement to roll right up to the enemy and burst upon taking
 
 <div markdown="1" class="">
 
-**Mechanaut:** Init +2; Atk Great Sword +3 melee (1d12+3), Bash +6 melee (1d6 + bash); AC 18; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, omnivision, immune to critical hits; SV Fort +10, Ref +1, Will +6; AL N
+**Mechanaut:** Init +2; Atk Great Sword +3 melee (1d12+3), Bash +6 melee (1d6 + bash); AC 18; HD 4d12; HP 26; MV 35'; Act 2d20; SP Shock Armor, bash, omnivision, immune to critical hits except to head; SV Fort +10, Ref +1, Will +6; AL N
 
 A large, plate armor knight.
-A small creature in the head controls this mechanical armor.
+A small creature in the head is visiting this planet and controls this mechanical armor.
 All joints can rotate 360°.
 
 Usually attacks with a *bash* followed by a sword strike to the prone enemy.
@@ -418,12 +426,6 @@ Bash: DC 15 or prone.
 <!-- {: .breakbefore} -->
 </div>
 </div>
-</section>
-<section markdown="1">
-
-</section>
-<section markdown="1" class="clean">
-Last page
 </section>
 <section markdown="1" class="clean">
 inside back cover
