@@ -211,9 +211,8 @@ Affects only the unholy. Weapon bathed in holy light.
 | 6    | +10 magic damage and unholy of 3 HD or less are killed instantly and explode in holy light that does 1d6 magic damage to surrounding unholy creatures.                                      |
 | 7+   | +12 magic damage and unholy of 4HD or less are killed instantly and explode in holy light that does 1d8 magic damage to surrounding unholy creatures. Roll turn unholy +4 focused on target |
 
-</section>
-<section markdown="1" class="clean">
-Paladin Image
+ Paladin Image 
+{: .breakbefore}
 </section>
 <section markdown="1" class="">
 
@@ -251,9 +250,8 @@ Copy about anti-paladin
 | 9   | +d10+2 | 2d20/V    | 1d20+1d20 | +3  | +3   | +5   | 6      | 5  | 3  | 2  | -- |
 | 10  | +d10+3 | 2d20/V    | 1d20+1d20 | +3  | +4   | +6   | 7      | 5  | 4  | 3  | 1  |
 
-</section>
-<section markdown="1" class="clean">
 Anti-Paladin Image
+{: .breakbefore}
 </section>
 <section class="" markdown="1">
 
