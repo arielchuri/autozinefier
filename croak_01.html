@@ -33,7 +33,7 @@
 <li><a href="#dark-elf">Dark Elf</a></li>
 <li><a href="#halfling-pipeweed">Halfling Pipeweed</a></li>
 <li><a href="#slurm-priest">Slurm Priest</a></li>
-<li><a href="#slime-grubins">Slime Grubins</a></li>
+<li><a href="#slurm-grubins">Slurm Grubins</a></li>
 <li><a href="#mechanaut">Mechanaut</a></li>
 </ul>
 </div>
@@ -92,7 +92,7 @@ You will need to install two command line programs. Python-markdown (<a href="ht
 <p><strong>Aiming:</strong> Taking a round to aim a ranged attack adds +2 to the roll. A target that is unaware of any danger and struck by an aiming ranger, receives a critical hit as long as the attack is successful.</p>
 <p><strong>Initiative:</strong> A ranger adds his class level to his initiative rolls.</p>
 <p><strong>Luck:</strong> Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.</p>
-<p><strong>Ranger skills:</strong> Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.</p>
+<p><strong>Ranger skills:</strong> Rangers roll a d30 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.</p>
 <h3 class="breakbefore" id="ranger-table">Ranger Table</h3>
 <table>
 <thead>
@@ -216,13 +216,13 @@ You will need to install two command line programs. Python-markdown (<a href="ht
 </section>
 <section class="">
 <h2 id="barbarian"><strong>Barbarian</strong></h2>
-<p>A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s, action dice, and fort save is slightly better than the warrior while the will save and attack bonus are decreased.</p>
-<p><strong>Hit points:</strong> 1d12 hit points per level</p>
+<p>A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s action dice and fort save is slightly better than the warrior while the will save and attack bonus are decreased.</p>
+<p><strong>Hit points:</strong> A barbarian gains 1d12 hit points at each level.</p>
 <p><strong>Weapon training:</strong> A barbarian is trained in the use of these weapons:
 battleaxe, club, crossbow, dagger, handaxe, javelin, longsword, mace,
 polearm, shortbow, short sword, sling, spear, staff, two-handed sword,
 and warhammer. Barbarians may wear any armor but the armor&rsquo;s check
-penalty offsets their natural, agility based, armor class bonus.</p>
+penalty offsets their natural armor class bonus.</p>
 <p>Notably absent from the weapons list is the longbow which would require
 additional training to master.</p>
 <p><strong>Armor class:</strong>  The barbarian gains an armor class bonus based on
@@ -245,8 +245,8 @@ roll that goes berserk must be against a real threat.</p>
 <p>After a going berserk the barbarian freaks out.</p>
 <p><strong>Freak Out (d6)</strong>:</p>
 <ol>
-<li>Attack closest anything once at -d1 attack and damage.</li>
-<li>Destroy furniture sized object. As above if no object available.</li>
+<li>Attack closest anything once at -1d attack and damage.</li>
+<li>Destroy furniture sized object or shrubbery. As above if no object available.</li>
 <li>Strip clothes and bathe in the blood of your enemies.</li>
 <li>Run around screaming in people&rsquo;s faces.</li>
 <li>Victory cry / dance</li>
@@ -387,7 +387,7 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <h2 id="paladin">Paladin</h2>
 <p>The anointed warrior. Paladins may use all of the powers of the cleric and <em>Mighty Deeds</em> upon reaching level 2. God&rsquo;s warrior is held to higher standards then most.</p>
 <p>The paladin uses the same table as the Anti-Paladin (see next).</p>
-<p><strong>Hit points:</strong> 1d10/level</p>
+<p><strong>Hit points:</strong> A Paladin gains 1d10 hit points at each level.</p>
 <p><strong>Higher standards:</strong> The paladin&rsquo;s disapproval level begins at 3 each day.</p>
 <p><strong>Lucky weapon:</strong> A paladin may choose a weapon which receives his original luck modifier.</p>
 <p><strong>Mighty Deeds:</strong> A paladin may use <em>mighty deeds</em> as a warrior.</p>
@@ -432,14 +432,11 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 </section>
 <section class="">
 <h2 id="anti-paladin">Anti-Paladin</h2>
-<p>Copy about anti-paladin</p>
-<p><strong>Hit points:</strong> 1d10/level</p>
-<p><strong>Fickle Master</strong>: Anti-Paladin&rsquo;s use a d5 when rolling on the disapproval table</p>
-<p><strong>Lucky weapon:</strong> The Anti-paladin may choose a weapon which receives his original luck modifier.</p>
-<p><strong>Mighty deeds:</strong> An Anti-paladin may use <em>mighty deeds</em> as a warrior.</p>
-<p><strong>Crit range:</strong> Paladins crit on a roll of 19 or 20.</p>
-<p><strong>Lay On Hands</strong>, is replaced with <em>Death Touch</em> (<em>DCC Annual</em>, #1, Pg 18).</p>
-<p><strong>Turn Unholy</strong> effects the same creatures as a lawful Cleric, but makes them your slaves. Use the <em>Turn Unholy</em> table but, the turned fight for you for the amount of time listed. </p>
+<p>The anointed warrior. Anti-paladins may use all of the powers of the cleric and <em>Mighty Deeds</em> upon reaching level 2. God&rsquo;s warrior is subject to harsher punishment then most.</p>
+<p><strong>Hit points, Lucky weapon, Mighty Deeds, Crit range:</strong> As Paladin.</p>
+<p><strong>Fickle Master</strong>: Anti-Paladin&rsquo;s use d5s when rolling on the disapproval table.</p>
+<p><strong>Lay On Hands:</strong>: Replaced with <em>Death Touch</em> (<em>DCC Annual</em>, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any <em>living being</em> touched. The die used is on the dice chain at the Anti-paladin&rsquo;s level. Undead are healed as normal <em>lay on hands</em>.</p>
+<p><strong>Turn Unholy:</strong> effects the same creatures as a lawful Cleric, but makes them your slaves. Use the <em>Turn Unholy</em> table but, the turned fight for you for the amount of time listed and half the hit points. </p>
 <h3 id="paladin-anti-paladin-table">Paladin /Anti- Paladin Table</h3>
 <table>
 <thead>
@@ -467,7 +464,7 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <td></td>
 <td></td>
 <td></td>
-<td>1</td>
+<td>Lvl. 1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -621,136 +618,16 @@ for 1 round. Your armor class is reduced by the same amount.</p>
 <h2 id="dark-elf"><strong>Dark Elf</strong></h2>
 <p>Depending on who you ask, the Dark Elves are the corrupt, outcasts of the high elves or the true carriers of the Elven lineage. What they lack in martial prowess is made up for by their abilities as rogues and assassins. </p>
 <p>Dark Elves can heal 1 luck per day and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.</p>
-<p>Dark Elves share common elf traits such as infravision, a lucky spell, immunity to magical sleep and paralysis, and heigtened senses.</p>
-<p><strong>Spells Known</strong> as Elf -2 and no automatic Patron Bond/Invoke Patron.</p>
-<p><strong>Caster Level</strong> Dark elves cast at 1 less than their caster level.</p>
-<p><strong>Luck Die</strong> 1:1 at first level and then as Thief -d1 thereafter.</p>
-<p><strong>Spellburn</strong> Spellburn damage is permanent except for luck.</p>
-<p><strong>Corruption</strong> -d1 (d8) when rolling for corruption or patron taint.
+<p>Dark Elves share common elf traits such as infravision, a lucky spell, heigtened senses, and immunity to magical sleep and paralysis.</p>
+<p><strong>Spells Known:</strong> as Elf -2 and no automatic Patron Bond/Invoke Patron.</p>
+<p><strong>Caster Level:</strong> Dark elves cast at 1 less than their caster level.</p>
+<p><strong>Luck Die:</strong> 1:1 at first level and then as Thief -d1 thereafter.</p>
+<p><strong>Spellburn:</strong> Spellburn damage is permanent except for luck.</p>
+<p><strong>Corruption:</strong> -d1 (d8) when rolling for corruption or patron taint.
 Luck burned to avoid corruption is permanent.</p>
-<p>**Languages ** Knows a Dark Elf dialect of Elven that has a
-DC 15 Int check chance of being understood by an Elf. Standard Elven is
-the most likely third language known and DC 15 to understand if not.</p>
-<p><strong>Vulnerability</strong> Prolonged contact with iron causes 4hp damage per day
+<p><strong>Vulnerability:</strong> Prolonged contact with iron causes 4hp damage per day
 and -1d on all rolls. Damage from iron weapons causes an additional 1
 point of damage.</p>
-<h3 class="breakbefore" id="dark-elf-table">Dark Elf Table</h3>
-<table>
-<thead>
-<tr>
-<th>Lvl</th>
-<th>Atk</th>
-<th>Crit</th>
-<th>Action Dice</th>
-<th>Luck Die</th>
-<th>Ref</th>
-<th>Fort</th>
-<th>Will</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>+0</td>
-<td>1d8/II</td>
-<td>1d20</td>
-<td>1 point</td>
-<td>+1</td>
-<td>+1</td>
-<td>+0</td>
-</tr>
-<tr>
-<td>2</td>
-<td>+1</td>
-<td>1d10/II</td>
-<td>1d20</td>
-<td>d3</td>
-<td>+1</td>
-<td>+2</td>
-<td>+0</td>
-</tr>
-<tr>
-<td>3</td>
-<td>+2</td>
-<td>1d12/II</td>
-<td>1d20</td>
-<td>d4</td>
-<td>+1</td>
-<td>+2</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>+2</td>
-<td>1d14/II</td>
-<td>1d20</td>
-<td>d5</td>
-<td>+2</td>
-<td>+3</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>+3</td>
-<td>1d16/II</td>
-<td>1d20</td>
-<td>d5</td>
-<td>+2</td>
-<td>+4</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>+4</td>
-<td>1d20/II</td>
-<td>1d20+1d14</td>
-<td>d6</td>
-<td>+2</td>
-<td>+4</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>7</td>
-<td>+5</td>
-<td>1d24/II</td>
-<td>1d20+1d16</td>
-<td>d7</td>
-<td>+3</td>
-<td>+5</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>+5</td>
-<td>1d30/II</td>
-<td>1d20+1d20</td>
-<td>d7</td>
-<td>+3</td>
-<td>+5</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>9</td>
-<td>+6</td>
-<td>1d30+2/II</td>
-<td>1d20+1d20</td>
-<td>d8</td>
-<td>+3</td>
-<td>+6</td>
-<td>+3</td>
-</tr>
-<tr>
-<td>10</td>
-<td>+7</td>
-<td>1d30+4/II</td>
-<td>1d20+1d20</td>
-<td>d10</td>
-<td>+4</td>
-<td>+6</td>
-<td>+3</td>
-</tr>
-</tbody>
-</table>
 <h3 id="dark-elf-skills">Dark Elf Skills</h3>
 <table>
 <thead>
@@ -846,6 +723,157 @@ point of damage.</p>
 <td>+10</td>
 <td>+11</td>
 <td>+12</td>
+</tr>
+</tbody>
+</table>
+<h3 class="breakbefore" id="dark-elf-table">Dark Elf Table</h3>
+<table>
+<thead>
+<tr>
+<th>Lvl</th>
+<th>Atk</th>
+<th>Crit</th>
+<th>Action Dice</th>
+<th>Luck Die</th>
+<th>Ref</th>
+<th>Fort</th>
+<th>Will</th>
+<th>Spells</th>
+<th>Max Lvl.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td>Die/Table</td>
+<td>Dice</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>+0</td>
+<td>1d8/II</td>
+<td>1d20</td>
+<td>1 point</td>
+<td>+1</td>
+<td>+1</td>
+<td>+0</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+1</td>
+<td>1d10/II</td>
+<td>1d20</td>
+<td>d3</td>
+<td>+1</td>
+<td>+2</td>
+<td>+0</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td>1d12/II</td>
+<td>1d20</td>
+<td>d4</td>
+<td>+1</td>
+<td>+2</td>
+<td>+1</td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td>1d14/II</td>
+<td>1d20</td>
+<td>d5</td>
+<td>+2</td>
+<td>+3</td>
+<td>+1</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td>1d16/II</td>
+<td>1d20</td>
+<td>d5</td>
+<td>+2</td>
+<td>+4</td>
+<td>+1</td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+4</td>
+<td>1d20/II</td>
+<td>1d20+1d14</td>
+<td>d6</td>
+<td>+2</td>
+<td>+4</td>
+<td>+2</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+5</td>
+<td>1d24/II</td>
+<td>1d20+1d16</td>
+<td>d7</td>
+<td>+3</td>
+<td>+5</td>
+<td>+2</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+5</td>
+<td>1d30/II</td>
+<td>1d20+1d20</td>
+<td>d7</td>
+<td>+3</td>
+<td>+5</td>
+<td>+2</td>
+<td>12</td>
+<td>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+6</td>
+<td>1d30+2/II</td>
+<td>1d20+1d20</td>
+<td>d8</td>
+<td>+3</td>
+<td>+6</td>
+<td>+3</td>
+<td>13</td>
+<td>5</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+7</td>
+<td>1d30+4/II</td>
+<td>1d20+1d20</td>
+<td>d10</td>
+<td>+4</td>
+<td>+6</td>
+<td>+3</td>
+<td>14</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
@@ -1009,28 +1037,28 @@ With their pipe lit the halfling may use an action to add a little herbal supple
 </section>
 <section>
 <h2 id="slurm-priest">Slurm Priest</h2>
-<p><strong>Slurm Priest</strong> Init +2; Atk bite +4 ranged 10&rsquo; (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25&rsquo;; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.</p>
-<p><strong>Disgust:</strong> Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. </p>
-<p><strong>Swallow:</strong> If bite successful; DC 15 Strength check or be half swallowed.
+<p><strong>Slurm Priest</strong> Init +2; Atk bite +4 ranged 10&rsquo; (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (1d4 + explode); AC 14; HD 4d8; hp 18; MV 25&rsquo;; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.</p>
+<p><em>Disgust:</em> Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. </p>
+<p><em>Swallow:</em> Attacks first if in range. If bite successful; DC 15 Strength check or be half swallowed.
 The character will be upside down in the slurm&rsquo;s mouth with arms pinned at the waist and legs kicking.
 On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way).
 Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.
 Chance of mutation. 10%/round, cumulative. Minor corruption table modified by luck.
 Swallowed characters who have access to a blade must make DC 15 Strength check to attack. </p>
 <p>Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. </p>
-<p><strong>Vomit</strong> Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. </p>
-<p><strong>Defecate</strong> Eject 3 Puss, Acid, or Napalm Grubins.</p>
-<p><strong>Exiting</strong> Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
+<p><em>Vomit:</em> Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. </p>
+<p><em>Defecate:</em> Eject 3 Puss, Acid, or Napalm Grubins.</p>
+<p><em>Exiting:</em> Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
 </div></p>
 </section>
 <section>
-<h2 id="slime-grubins">Slime Grubins</h2>
+<h2 id="slurm-grubins">Slurm Grubins</h2>
 <p><strong>Grubin:</strong> Init -1; Atk shiv -1 melee (1d4-1), burst (area effect 5&rsquo;); AC 9; HD 1d6-1; hp 2; MV roll 35&rsquo;; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C</p>
 <p>Massively bloated into translucent balls in the stomach of the Slurm, these frightened looking grubins roll into battle in numbers.
-They use their full movement to roll right up to the enemy and burst upon taking any damage.</p>
-<p><strong>Puss:</strong> 1d3 to all within 10’.</p>
-<p><strong>Napalm:</strong> 5&rsquo; covered in flaming gel and grubin bits. 1d5 damage/round. three DC 15 agility checks to remove. Anyone may attempt over multiple rounds.</p>
-<p><strong>Acid:</strong> Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
+They use their full movement to roll right up to the enemy and burst upon taking any damage. Slurm grubins come in three flavors.</p>
+<p><strong>Puss Grubin:</strong> 1d3 to all within 10’.</p>
+<p><strong>Napalm Grubin:</strong> 5&rsquo; covered in flaming gel and grubin bits. 1d5 damage/round. three DC 15 agility checks to remove. Anyone may attempt over multiple rounds.</p>
+<p><strong>Acid Grubin:</strong> Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
 </div></p>
 <!-- {: .breakbefore} -->
 </section>
@@ -1043,8 +1071,9 @@ A small creature in the head is visiting this planet and controls this mechanica
 All joints can rotate 360°.</p>
 <p>Usually attacks with a <em>bash</em> followed by a sword strike to the prone enemy.
 If the armor is killed, the head disconnects and flies away. </p>
-<p>Shock Armor: contact causes shock damage (1d6). Drop your weapon on receiving 4-5 damage and 6 requires a DC 20 Fort save or fall prone. Water disables.</p>
-<p>Bash: DC 15 or prone.</p>
+<p><em>Shock Armor:</em> contact causes shock damage (1d6). Drop your weapon on receiving 4-5 damage and 6 requires a DC 20 Fort save or fall prone. Water spreads the effect.</p>
+<p><em>Bash:</em> DC 15 or prone.</p>
+<p><strong>Mechanaut Head:</strong> Init +12; Atk ear turrets ranged 60&rsquo; (2d12); AC 24; HD 4d3; HP 6; MV 55&rsquo;; Act 2d20; SP Shock Armor, omnivision, SV Fort +10, Ref +12, Will +6; AL N</p>
 <!-- {: .breakbefore} -->
 </div>
 </div>

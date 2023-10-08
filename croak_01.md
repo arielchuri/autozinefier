@@ -88,7 +88,7 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 **Luck:** Rangers are naturall lucky. A ranger regenerates luck at the rate of 1 point each day.
 
-**Ranger skills:** Rangers roll a d24 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.
+**Ranger skills:** Rangers roll a d30 on all hunting, nature, and survival checks. Rangers can track most quarry without a roll at all.
 
 ### Ranger Table {: .breakbefore}
 
@@ -115,15 +115,15 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 ## **Barbarian**
 
-A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s, action dice, and fort save is slightly better than the warrior while the will save and attack bonus are decreased.
+A Warrior with no mighty deed and a natural AC bonus that is modified by the Armor Check penalty. Berserker mode adds a random element and removes some player agency.  The barbarian’s action dice and fort save is slightly better than the warrior while the will save and attack bonus are decreased.
 
-**Hit points:** 1d12 hit points per level
+**Hit points:** A barbarian gains 1d12 hit points at each level.
 
 **Weapon training:** A barbarian is trained in the use of these weapons:
 battleaxe, club, crossbow, dagger, handaxe, javelin, longsword, mace,
 polearm, shortbow, short sword, sling, spear, staff, two-handed sword,
 and warhammer. Barbarians may wear any armor but the armor's check
-penalty offsets their natural, agility based, armor class bonus.
+penalty offsets their natural armor class bonus.
 
 Notably absent from the weapons list is the longbow which would require
 additional training to master.
@@ -154,8 +154,8 @@ After a going berserk the barbarian freaks out.
 
 **Freak Out (d6)**:
 
-1.  Attack closest anything once at -d1 attack and damage.
-2.  Destroy furniture sized object. As above if no object available.
+1.  Attack closest anything once at -1d attack and damage.
+2.  Destroy furniture sized object or shrubbery. As above if no object available.
 3.  Strip clothes and bathe in the blood of your enemies.
 4.  Run around screaming in people's faces.
 5.  Victory cry / dance
@@ -188,7 +188,7 @@ The anointed warrior. Paladins may use all of the powers of the cleric and *Migh
 
 The paladin uses the same table as the Anti-Paladin (see next).
 
-**Hit points:** 1d10/level
+**Hit points:** A Paladin gains 1d10 hit points at each level.
 
 **Higher standards:** The paladin's disapproval level begins at 3 each day.
 
@@ -218,27 +218,21 @@ Affects only the unholy. Weapon bathed in holy light.
 
 ## Anti-Paladin
 
-Copy about anti-paladin
+The anointed warrior. Anti-paladins may use all of the powers of the cleric and *Mighty Deeds* upon reaching level 2. God's warrior is subject to harsher punishment then most.
 
-**Hit points:** 1d10/level
+**Hit points, Lucky weapon, Mighty Deeds, Crit range:** As Paladin.
 
-**Fickle Master**: Anti-Paladin's use a d5 when rolling on the disapproval table
+**Fickle Master**: Anti-Paladin's use d5s when rolling on the disapproval table.
 
-**Lucky weapon:** The Anti-paladin may choose a weapon which receives his original luck modifier.
+**Lay On Hands:**: Replaced with *Death Touch* (*DCC Annual*, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any _living being_ touched. The die used is on the dice chain at the Anti-paladin's level. Undead are healed as normal _lay on hands_.
 
-**Mighty deeds:** An Anti-paladin may use *mighty deeds* as a warrior.
-
-**Crit range:** Paladins crit on a roll of 19 or 20.
-
-**Lay On Hands**, is replaced with *Death Touch* (*DCC Annual*, #1, Pg 18).
-
-**Turn Unholy** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed. 
+**Turn Unholy:** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed and half the hit points. 
 
 ### Paladin /Anti- Paladin Table
 
 | Lvl | Atk    | Crit      | Act/Deed  | Ref | Fort | Will | Spells |    |    |    |    |
 |-----|--------|-----------|-----------|-----|------|------|--------|----|----|----|----|
-|     |        | Die/Table | Dice      |     |      |      | 1      | 2  | 3  | 4  | 5  |
+|     |        | Die/Table | Dice      |     |      |      | Lvl. 1 | 2  | 3  | 4  | 5  |
 | 1   | +1     | 1d10/III  | 1d20      | +0  | +1   | +1   | 2      | -- | -- | -- | -- |
 | 2   | +d3    | 1d12/III  | 1d20      | +0  | +1   | +1   | 3      | -- | -- | -- | -- |
 | 3   | +d4    | 1d14/III  | 1d20      | +1  | +1   | +2   | 3      | 1  | -- | -- | -- |
@@ -261,41 +255,22 @@ Depending on who you ask, the Dark Elves are the corrupt, outcasts of the high e
 
 Dark Elves can heal 1 luck per day and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.
 
-Dark Elves share common elf traits such as infravision, a lucky spell, immunity to magical sleep and paralysis, and heigtened senses.
+Dark Elves share common elf traits such as infravision, a lucky spell, heigtened senses, and immunity to magical sleep and paralysis.
 
-**Spells Known** as Elf -2 and no automatic Patron Bond/Invoke Patron.
+**Spells Known:** as Elf -2 and no automatic Patron Bond/Invoke Patron.
 
-**Caster Level** Dark elves cast at 1 less than their caster level.
+**Caster Level:** Dark elves cast at 1 less than their caster level.
 
-**Luck Die** 1:1 at first level and then as Thief -d1 thereafter.
+**Luck Die:** 1:1 at first level and then as Thief -d1 thereafter.
 
-**Spellburn** Spellburn damage is permanent except for luck.
+**Spellburn:** Spellburn damage is permanent except for luck.
 
-**Corruption** -d1 (d8) when rolling for corruption or patron taint.
+**Corruption:** -d1 (d8) when rolling for corruption or patron taint.
 Luck burned to avoid corruption is permanent.
 
-**Languages ** Knows a Dark Elf dialect of Elven that has a
-DC 15 Int check chance of being understood by an Elf. Standard Elven is
-the most likely third language known and DC 15 to understand if not.
-
-**Vulnerability** Prolonged contact with iron causes 4hp damage per day
+**Vulnerability:** Prolonged contact with iron causes 4hp damage per day
 and -1d on all rolls. Damage from iron weapons causes an additional 1
 point of damage.
-
-### Dark Elf Table {: .breakbefore}
-
-| Lvl | Atk | Crit      | Action Dice | Luck Die | Ref | Fort | Will |
-|-----|-----|-----------|-------------|----------|-----|------|------|
-| 1   | +0  | 1d8/II    | 1d20        | 1 point  | +1  | +1   | +0   |
-| 2   | +1  | 1d10/II   | 1d20        | d3       | +1  | +2   | +0   |
-| 3   | +2  | 1d12/II   | 1d20        | d4       | +1  | +2   | +1   |
-| 4   | +2  | 1d14/II   | 1d20        | d5       | +2  | +3   | +1   |
-| 5   | +3  | 1d16/II   | 1d20        | d5       | +2  | +4   | +1   |
-| 6   | +4  | 1d20/II   | 1d20+1d14   | d6       | +2  | +4   | +2   |
-| 7   | +5  | 1d24/II   | 1d20+1d16   | d7       | +3  | +5   | +2   |
-| 8   | +5  | 1d30/II   | 1d20+1d20   | d7       | +3  | +5   | +2   |
-| 9   | +6  | 1d30+2/II | 1d20+1d20   | d8       | +3  | +6   | +3   |
-| 10  | +7  | 1d30+4/II | 1d20+1d20   | d10      | +4  | +6   | +3   |
 
 ### Dark Elf Skills
 
@@ -307,6 +282,22 @@ point of damage.
 | Climb sheer surfaces | +1 | +3 | +5 | +7 | +8 | +9  | +10 | +11 | +12 | +13 |
 | Find trap            | +3 | +5 | +7 | +8 | +9 | +11 | +12 | +13 | +14 | +15 |
 | Handle poison        | +0 | +1 | +3 | +5 | +7 | +8  | +9  | +10 | +11 | +12 |
+
+### Dark Elf Table {: .breakbefore}
+
+| Lvl | Atk | Crit      | Action Dice | Luck Die | Ref | Fort | Will | Spells | Max Lvl. |
+|-----|-----|-----------|-------------|----------|-----|------|------|--------|----------|
+|     |     | Die/Table | Dice        |          |     |      |      | 2      | 1        |
+| 1   | +0  | 1d8/II    | 1d20        | 1 point  | +1  | +1   | +0   | 3      | 2        |
+| 2   | +1  | 1d10/II   | 1d20        | d3       | +1  | +2   | +0   | 4      | 2        |
+| 3   | +2  | 1d12/II   | 1d20        | d4       | +1  | +2   | +1   | 5      | 2        |
+| 4   | +2  | 1d14/II   | 1d20        | d5       | +2  | +3   | +1   | 6      | 3        |
+| 5   | +3  | 1d16/II   | 1d20        | d5       | +2  | +4   | +1   | 8      | 3        |
+| 6   | +4  | 1d20/II   | 1d20+1d14   | d6       | +2  | +4   | +2   | 9      | 4        |
+| 7   | +5  | 1d24/II   | 1d20+1d16   | d7       | +3  | +5   | +2   | 10     | 4        |
+| 8   | +5  | 1d30/II   | 1d20+1d20   | d7       | +3  | +5   | +2   | 12     | 5        |
+| 9   | +6  | 1d30+2/II | 1d20+1d20   | d8       | +3  | +6   | +3   | 13     | 5        |
+| 10  | +7  | 1d30+4/II | 1d20+1d20   | d10      | +4  | +6   | +3   | 14     | 5        |
 
 </section>
 <section class="" markdown="1">
@@ -364,11 +355,11 @@ A half day spent foraging may uncover some valuable pipeweed. Roll 3d16 +/-Luckm
 
 ## Slurm Priest
 
-**Slurm Priest** Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (area effect); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
+**Slurm Priest** Init +2; Atk bite +4 ranged 10' (1d6 + swallow), Vomit Puss Grubin +3 ranged 40’ (1d4 + explode); AC 14; HD 4d8; hp 18; MV 25'; Act 1d20 + 1d16; SP disgust, swallow, vomit, defecate; SV Fort +5, Ref +0, Will +3; AL C.
 
-**Disgust:** Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
+*Disgust:* Any human in a 5’ range must make a fort save each round or lose a round. Demihumans are immune. 
 
-**Swallow:** If bite successful; DC 15 Strength check or be half swallowed.
+*Swallow:* Attacks first if in range. If bite successful; DC 15 Strength check or be half swallowed.
 The character will be upside down in the slurm's mouth with arms pinned at the waist and legs kicking.
 On the Slurm’s next turn the character drops any large weapon and is completely swallowed (unless aided in some way).
 Swallowed characters lose 1d3 Stamina per round and take half damage from piercing and bludgeoning attacks on the Slurm.
@@ -377,28 +368,28 @@ Swallowed characters who have access to a blade must make DC 15 Strength check t
 
 Anyone reduced to 6 or less Stamina becomes a Slurm Symbiote and is ejected from the rear (100% chance of mutation). The worms grow in the body. Over the next week, barring intervention, the victim falls very ill, begins to bloat, attempts to attack lawful clerics, and explodes releasing thousands of purple worms. 
 
-**Vomit** Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. 
+*Vomit:* Can shoot a Puss Grubin. Shooting it up to 40’. +3 ranged, 1d4 Dam. The Puss Grubin explodes on a hit or lands ready to attack next turn on a miss. 
 
-**Defecate** Eject 3 Puss, Acid, or Napalm Grubins.
+*Defecate:* Eject 3 Puss, Acid, or Napalm Grubins.
 
-**Exiting** Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
+*Exiting:* Upon losing a moral check or being reduced to too few HP; the Slurm will forcibly eject any characters in its stomach and bite its own tail and swallow itself until it has disappeared with a small pop. Upon death; the worm deflates with gas and fluid leaking out, leaving only a bit of skin, lips, teeth, and jewelry (1d14+14gp). 
 </div>
 
 </section>
 <section markdown="1">
 
-## Slime Grubins
+## Slurm Grubins
 
 **Grubin:** Init -1; Atk shiv -1 melee (1d4-1), burst (area effect 5'); AC 9; HD 1d6-1; hp 2; MV roll 35'; Act 1d20; SP burst, infravision; SV Fort +1, Ref -1, Will +3; AL C
 
 Massively bloated into translucent balls in the stomach of the Slurm, these frightened looking grubins roll into battle in numbers.
-They use their full movement to roll right up to the enemy and burst upon taking any damage.
+They use their full movement to roll right up to the enemy and burst upon taking any damage. Slurm grubins come in three flavors.
 
-**Puss:** 1d3 to all within 10’.
+**Puss Grubin:** 1d3 to all within 10’.
 
-**Napalm:** 5' covered in flaming gel and grubin bits. 1d5 damage/round. three DC 15 agility checks to remove. Anyone may attempt over multiple rounds.
+**Napalm Grubin:** 5' covered in flaming gel and grubin bits. 1d5 damage/round. three DC 15 agility checks to remove. Anyone may attempt over multiple rounds.
 
-**Acid:** Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
+**Acid Grubin:** Acid cloud 25’ square. 1d4 damage/round, DC 15 Ref save or lose a round, Act -1d.
 </div>
 <!-- {: .breakbefore} -->
 </section>
@@ -417,10 +408,11 @@ All joints can rotate 360°.
 Usually attacks with a *bash* followed by a sword strike to the prone enemy.
 If the armor is killed, the head disconnects and flies away. 
 
-Shock Armor: contact causes shock damage (1d6). Drop your weapon on receiving 4-5 damage and 6 requires a DC 20 Fort save or fall prone. Water disables.
+*Shock Armor:* contact causes shock damage (1d6). Drop your weapon on receiving 4-5 damage and 6 requires a DC 20 Fort save or fall prone. Water spreads the effect.
 
-Bash: DC 15 or prone.
+*Bash:* DC 15 or prone.
 
+**Mechanaut Head:** Init +12; Atk ear turrets ranged 60' (2d12); AC 24; HD 4d3; HP 6; MV 55'; Act 2d20; SP Shock Armor, omnivision, SV Fort +10, Ref +12, Will +6; AL N
 <!-- {: .breakbefore} -->
 </div>
 </div>
