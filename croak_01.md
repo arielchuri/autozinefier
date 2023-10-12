@@ -129,23 +129,19 @@ Notably absent from the weapons list is the longbow which would require
 additional training to master.
 
 **Armor class:**  The barbarian gains an armor class bonus based on
-their level. This bonus is reduced by any armor check penalty or any
-other agility modifier.
+their level. This bonus does not stack with armor.
 
 **Attack**: Berserker Die, same as Deed Die but no mighty deeds. Max
 roll on the berserker die and the barbarian goes berserk. The player may
 choose to roll any die lower on the dice chain (make the fight harder to
-make yourself angrier and more likely to go berserk). The player may
-burn a point of Intelligence to avoid entering Berserker Mode.
+make yourself angrier and more likely to go berserk).
 
-**Berserker**: When facing a threat and rolling the maximum value on the
-berserker die, the barbarian goes berserk until their are no reachable
-enemies or they burns 2 points of intelligence. A berserk barbarian adds their Fort save to their armor class. The barbarian gains an additional
-action die -1d on the dice chain from their highest action die.
+**Berserker**: When successfully hitting a real threat and rolling the maximum value on the berserker die, the barbarian may go *berserk*. The barbarian goes berserk until their are no reachable enemies or they burn 2 points of intelligence. If the player chooses, this may be avoided with a will save against the attack roll.
+
+- A berserk barbarian adds their Fort save to their armor class.
+- The barbarian gains an additional action die -1d on the dice chain from their highest action die and that hits and crits on a maximum result.
 This action may be used during the current round.
-
-Going berserk imposes the following additional modifiers to saving
-throws; +2 Fort, +2 Reflex, -2 Will.
+- Going berserk imposes the following additional modifiers to saving throws; +2 Fort, +2 Reflex, -2 Will.
 
 It is not possible to enter berserk mode at will. In other words, the
 roll that goes berserk must be against a real threat.
@@ -224,7 +220,7 @@ The anointed warrior. Anti-paladins may use all of the powers of the cleric and 
 
 **Fickle Master**: Anti-Paladin's use d5s when rolling on the disapproval table.
 
-**Lay On Hands:**: Replaced with *Death Touch* (*DCC Annual*, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any _living being_ touched. The die used is on the dice chain at the Anti-paladin's level. Undead are healed as normal _lay on hands_.
+**Lay On Hands:**: Replaced with *Death Touch* (*DCC Annual*, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any _living being_ touched. The die used is on the dice chain at the Anti-paladin's level. Undead are healed as normal _lay on hands_. Turned undead are healed and do your bidding for the day.
 
 **Turn Unholy:** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed and half the hit points. 
 
@@ -256,6 +252,8 @@ Depending on who you ask, the Dark Elves are the corrupt, outcasts of the high e
 Dark Elves can heal 1 luck per day and use it to cast spells, but cannot spellburn except at great cost. Burning Stats other than luck causes permanent damage.
 
 Dark Elves share common elf traits such as infravision, a lucky spell, heigtened senses, and immunity to magical sleep and paralysis.
+
+**Hit points:** A Dark Elf gains 1d7 hit points at each level.
 
 **Spells Known:** as Elf -2 and no automatic Patron Bond/Invoke Patron.
 
