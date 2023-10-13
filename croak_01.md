@@ -420,10 +420,11 @@ inside back cover
 </section>
 <section markdown="1" class="clean">
 ![](charactersheets/RangerSheet.svg)
+{: .fullpage}
 </section>
 <section markdown="1" class="clean">
 ![](charactersheets/RangerSheet.svg)
-{: .background}
+{: .fullpageright}
 </section>
 <section markdown="1" class="clean">
 
