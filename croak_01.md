@@ -419,6 +419,13 @@ If the armor is killed, the head disconnects and flies away.
 inside back cover
 </section>
 <section markdown="1" class="clean">
+![](charactersheets/RangerSheet.svg)
+</section>
+<section markdown="1" class="clean">
+![](charactersheets/RangerSheet.svg)
+{: .background}
+</section>
+<section markdown="1" class="clean">
 
 ![](images/coversuper.svg)
 {: .background}
