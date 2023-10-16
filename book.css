@@ -157,7 +157,13 @@ top: -.25in;
 left: -5.75in;
 position: absolute;
 }
-img.forground {
+.blank {
+display: none;
+}
+.hidden {
+visibility: hidden;
+height: 0px;
+margin: 0px;
 }
 @media only screen {
   p.background {
@@ -165,12 +171,14 @@ img.forground {
   left: -.125in;
   }
   p.fullpage, p.fullpageright {
-  top: 0in;
-  left: 0in;
+    position: relative;
+    top: 0in;
+    left: 0in;
   }
   p.fullpageright {
   top: 0in;
   left: -5.5in;
+  display: none;
   }
   p.background img {
   clip-path: inset(.125in .125in .125in .125in);
@@ -178,12 +186,15 @@ img.forground {
   position: inherit;
   }
   p.fullpage img {
-  clip-path: inset(0in 5.5in 0in 0in);
+  width: 100%;
+  bottom: 0in;
+  position: relative;
+  /* clip-path: inset(0in 5.5in 0in 0in); */
   top: 0in;
   position: inherit;
   }
   p.fullpageright img {
-  clip-path: inset(0in 0in 0in 5.5in);
+  /* clip-path: inset(0in 0in 0in 5.5in); */
   top: 0in;
   position: inherit;
   }
@@ -218,9 +229,6 @@ img.forground {
   padding: .25in .25in .5in .25in;
   min-height: 8.5in;
   position: relative;
-  }
-  .blank {
-  display: none;
   }
 }
 @media only screen and (max-width: 5.5in) {

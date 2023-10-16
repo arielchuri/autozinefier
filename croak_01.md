@@ -1,4 +1,5 @@
 <section markdown="1" class="clean">
+## Cover {: .hidden}
 <!-- ![](images/cover.svg) -->
 <!-- {: .background} -->
 
@@ -110,6 +111,17 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 <!-- ![](images/coversuper.svg) -->
 <!-- {: .background} -->
 
+### Ranger character sheet {: .breakbefore .breakafter .hidden}
+
+[![](charactersheets/RangerSheet.svg)](charactersheets/RangerSheet.pdf)
+{: .fullpage .breakbefore}
+
+Ranger character sheet 2
+{: .breakbefore .breakafter .hidden}
+
+![](charactersheets/RangerSheet.svg)
+{: .fullpageright .breakbefore}
+
 </section>
 <section markdown="1" class="">
 
@@ -175,6 +187,17 @@ for 1 round. Your armor class is reduced by the same amount.
 | 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20      | +6       | +3  | +6   | +2   |
 | 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20+1d16 | +7       | +4  | +6   | +3   |
 
+### Barbarian character sheet {: .breakbefore .breakafter .hidden}
+
+[![](charactersheets/BarbarianSheet.svg)](charactersheets/BarbarianSheet.pdf)
+{: .fullpage .breakbefore}
+
+Barbarian character sheet 2
+{: .breakbefore .breakafter .hidden}
+
+![](charactersheets/BarbarianSheet.svg)
+{: .fullpageright .breakbefore}
+
 </section>
 <section markdown="1" class="">
 
@@ -209,6 +232,18 @@ Affects only the unholy. Weapon bathed in holy light.
 
  Paladin Image 
 {: .breakbefore}
+
+### Paladin character sheet {: .breakbefore .breakafter .hidden}
+
+[![](charactersheets/PaladinSheet.svg)](charactersheets/PaladinSheet.pdf)
+{: .fullpage .breakbefore}
+
+Paladin character sheet 2
+{: .breakbefore .breakafter .hidden}
+
+![](charactersheets/PaladinSheet.svg)
+{: .fullpageright .breakbefore}
+
 </section>
 <section markdown="1" class="">
 
@@ -242,6 +277,18 @@ The anointed warrior. Anti-paladins may use all of the powers of the cleric and 
 
 Anti-Paladin Image
 {: .breakbefore}
+
+### Anti-Paladin character sheet {: .breakbefore .breakafter .hidden}
+
+[![](charactersheets/AntiPaladinSheet.svg)](charactersheets/AntiPaladinSheet.pdf)
+{: .fullpage .breakbefore}
+
+AntiPaladin character sheet 2
+{: .breakbefore .breakafter .hidden}
+
+![](charactersheets/AntiPaladinSheet.svg)
+{: .fullpageright .breakbefore}
+
 </section>
 <section class="" markdown="1">
 
@@ -296,6 +343,26 @@ point of damage.
 | 8   | +5  | 1d30/II   | 1d20+1d20   | d7       | +3  | +5   | +2   | 12     | 5        |
 | 9   | +6  | 1d30+2/II | 1d20+1d20   | d8       | +3  | +6   | +3   | 13     | 5        |
 | 10  | +7  | 1d30+4/II | 1d20+1d20   | d10      | +4  | +6   | +3   | 14     | 5        |
+
+
+### Dark Elf character sheet {: .breakbefore .breakafter .hidden}
+
+[![](charactersheets/DarkElfSheet.svg)](charactersheets/DarkElfSheet.pdf)
+{: .fullpage .breakbefore}
+
+Dark Elfi character sheet 2
+{: .breakbefore .breakafter .hidden}
+
+![](charactersheets/DarkElfSheet.svg)
+{: .fullpageright .breakbefore}
+
+</section>
+<section class="" markdown="1">
+
+## List of dcc core monsters by HD
+
+Android
+Ant, giant
 
 </section>
 <section class="" markdown="1">
@@ -417,14 +484,6 @@ If the armor is killed, the head disconnects and flies away.
 </section>
 <section markdown="1" class="clean">
 inside back cover
-</section>
-<section markdown="1" class="clean">
-![](charactersheets/RangerSheet.svg)
-{: .fullpage}
-</section>
-<section markdown="1" class="clean">
-![](charactersheets/RangerSheet.svg)
-{: .fullpageright}
 </section>
 <section markdown="1" class="clean">
 
