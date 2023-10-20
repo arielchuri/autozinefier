@@ -374,7 +374,7 @@ While smoking standard pipeweed has no mechanical effect, certain herbal additiv
 A halfling may forage for pipeweed by rolling on the following table.
 Typically just before their next adventure.
 
-Standard pipeweed can only be foraged but may be bought in shops in areas where halflings reside for 10sp each.
+Standard pipeweed can be foraged but may be bought in shops in areas where halflings reside for 10sp each.
 It should also be noted that it would be terribly rude for a halfling to refuse another halfling a puff of pipeweed and nearly as rude for the favor to not be asked. 
 
 A halfling must use a portion of standard pipeweed to keep their pipe lit all day.
