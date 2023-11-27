@@ -359,11 +359,37 @@ Dark Elfi character sheet 2
 </section>
 <section class="" markdown="1">
 
-## List of dcc core monsters by HD
+## Bard's Bane
 
-Android
-Ant, giant
+This enchanted sword passes exists in a dimension of infinate personalities. Roll on the following table at the beginning of each session.
 
+| d24 | Attitude             | Power                                                                                                                       |
+|-----|----------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|     | Morose               | -1                                                                                                                          |
+|     | Lazy                 | -1 damage                                                                                                                   |
+|     | Garrulous            | Enemies are never surprised                                                                                                 |
+|     | Improper             | No bonus                                                                                                                    |
+|     | Narcissistic         | Wielder must praise the sword with a novel compliment before entering combat or -1 att.                                     |
+|     | Sarcastic            | Intelligent enemies may become enraged (20% chance, -2 attack, +1 damage)                                                   |
+|     | Backseat driver      | Offers advice after every swing and slash. Crits on table IV and takes all the credit.                                      |
+|     | Stingy               | +1 attack, -1 damage                                                                                                        |
+|     | Silly                | +1d damage                                                                                                                  |
+|     | Schlemiel/Schlemazel | Fumble range +1, crit range +1                                                                                              |
+|     | Kvetches             | Complains about everyone else’s actions. Fort save against crits. DC is natural die roll that scored the crit.              |
+|     | Insult Comic         | one time +1 to +3 for a good burn on a target (Judge’s discretion)                                                          |
+|     | Grumpy               | Hates a creature type of Judge's choice, +1d damage and +1d crit die against creature                                       |
+|     | Aloof                | No bonus for creatures of a lower level than the wielder.  +1 for the same level and +2 for 1 level above, +3 above that.   |
+|     | Too much information | Knows everything about the wielder and over shares. +1 or +2 depending on revelation.                                       |
+|     | OCD                  | +2 if protocols are followed and -1 if not or there are any germs or dirt.                                                  |
+|     | Eager and Curious    | +1, Detect secrets within 10’, Blade glows as a torch                                                                       |
+|     | Emo                  | +2 and Fumble range +1                                                                                                      |
+|     | Angry                | +2                                                                                                                          |
+|     | Super Mom            | +3 Attack if the wielder has helped or shown kindness to someone in any way, does not let the wielder lie, cheat, or steal. |
+|     | Death metal          | Damage +1d, crit range +1                                                                                                   |
+|     | Helpful              | +1, +2 to all saving throws                                                                                                 |
+
+If the sword is ignored, unused for a long time, or unused because of a die roll, it becomes Petulant until the next personality change. 
+Petulant: whines about everything. No bonuses.
 </section>
 <section class="" markdown="1">
 
