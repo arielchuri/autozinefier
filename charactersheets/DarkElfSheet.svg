@@ -6,7 +6,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="DarkElfSheet.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,13 +23,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.4804154"
-     inkscape:cx="555.5873"
+     inkscape:cx="555.92505"
      inkscape:cy="426.23172"
-     inkscape:window-width="2488"
-     inkscape:window-height="1412"
+     inkscape:window-width="2793"
+     inkscape:window-height="1396"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <defs
      id="defs1">
@@ -117,40 +117,50 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13.3333px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#202020;fill-opacity:1;stroke:none;stroke-width:8.33067;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
        x="555.25"
        y="493.97652"
-       id="tspan16">Iron weapons cause +1 damage, heightened senses, Luck mod to </tspan><tspan
+       id="tspan3">Attacks from iron weapons cause the Dark Elf +1 damage, </tspan><tspan
        x="555.25"
        y="507.30984"
-       id="tspan17">one level 1 spell, heals one Luck per day, spellburn is permanent, </tspan><tspan
+       id="tspan4">heightened senses, heals one Luck per day, spellburn is </tspan><tspan
        x="555.25"
        y="520.64315"
-       id="tspan18">d8 for corruption or patron taint.&#10;</tspan><tspan
+       id="tspan5">permanent, caster level is -1, d8 for corruption or patron taint.
+</tspan><tspan
        x="555.25"
        y="533.97646"
-       id="tspan19">&#10;</tspan><tspan
+       id="tspan6">
+</tspan><tspan
        x="555.25"
        y="547.30978"
-       id="tspan20">Luck die&#10;</tspan><tspan
+       id="tspan7">Luck die
+</tspan><tspan
        x="555.25"
        y="560.64309"
-       id="tspan21">Backstab                                          Sneak silently*&#10;</tspan><tspan
+       id="tspan8">Backstab                                          Sneak silently*
+</tspan><tspan
        x="555.25"
        y="573.9764"
-       id="tspan22">Hide in shadows*                         Climb sheer&#10;</tspan><tspan
+       id="tspan9">Hide in shadows*                         Climb sheer
+</tspan><tspan
        x="555.25"
        y="587.30971"
-       id="tspan23">Find trap                                         Handle poison&#10;</tspan><tspan
+       id="tspan10">Find trap                                         Handle poison
+</tspan><tspan
        x="555.25"
        y="600.64303"
-       id="tspan24">&#10;</tspan><tspan
+       id="tspan11">
+</tspan><tspan
        x="555.25"
        y="613.97634"
-       id="tspan25">Base spell check&#10;</tspan><tspan
+       id="tspan12">Base spell check
+</tspan><tspan
        x="555.25"
        y="627.30965"
-       id="tspan26">Spell Name                          Level    Check                  Mercurial &amp; Notes&#10;</tspan><tspan
+       id="tspan13">Spell Name                          Level    Check                  Mercurial &amp; Notes
+</tspan><tspan
        x="555.25"
        y="640.64297"
-       id="tspan27">&#10;</tspan></text>
+       id="tspan14">
+</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:9px;line-height:9.99998px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';letter-spacing:0px;word-spacing:0px;fill:#202020;stroke-width:6.248;stroke-linecap:round;stroke-linejoin:round"

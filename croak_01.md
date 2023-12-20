@@ -302,19 +302,16 @@ Dark Elves share common elf traits such as infravision, a lucky spell, heigtened
 
 **Hit points:** A Dark Elf gains 1d7 hit points at each level.
 
-**Spells Known:** as Elf -2 and no automatic Patron Bond/Invoke Patron.
+**Spells**: No automatic Patron Bond/Invoke Patron.
 
 **Caster Level:** Dark elves cast at 1 less than their caster level.
-
-**Luck Die:** 1:1 at first level and then as Thief -d1 thereafter.
 
 **Spellburn:** Spellburn damage is permanent except for luck.
 
 **Corruption:** -d1 (d8) when rolling for corruption or patron taint.
 Luck burned to avoid corruption is permanent.
 
-**Vulnerability:** Prolonged contact with iron causes 4hp damage per day
-and -1d on all rolls. Damage from iron weapons causes an additional 1
+**Vulnerability:** Contact with iron for more than just a moment causes 4hp damage per day and -1d on Will saves. Damage from iron weapons causes an additional 1
 point of damage.
 
 ### Dark Elf Skills
