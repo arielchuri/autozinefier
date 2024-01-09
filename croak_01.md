@@ -55,14 +55,14 @@ Rangers are warriors of the forest. What they lack in hit points, they make up f
 I then use a script on my computer to transform this into a webpage and PDF.
 The images are in a separate folder and, are linked in the text as well.
 
-You can see all of the text by looking at the croak.md file at this link: [https://github.com/arielchuri/autozinefier/](https://github.com/arielchuri/autozinefier/).
+You can see all of the text by looking at the croak_01.md file at this link: [https://github.com/arielchuri/autozinefier/](https://github.com/arielchuri/autozinefier/).
 The html and pdf files are in there as well.
-Here is the html as a webpage: [https://arielchuri.github.io/autozinefier/croak.html](https://arielchuri.github.io/autozinefier/croak.html).
+Here is the html as a webpage: [https://arielchuri.github.io/autozinefier/croak_01.html](https://arielchuri.github.io/autozinefier/croak_01.html).
 
 To do this at home, use the button that says, *code* to download a zip file of everything.
 You will need to install two command line programs. Python-markdown ([https://python-markdown.github.io/](https://python-markdown.github.io/)) and Weasyprint ([https://weasyprint.org/](https://weasyprint.org/)).
 
-You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work here is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it.
+You can then run the included script called *markdowntopdf.sh*. On my computer, I type <kbd>sh ./markdowntopdf.sh croak_01</kbd> in the terminal. If that works, you can copy *croak.md* to a new file like *myfilename.md* with no spaces. Change the text and images and then use the command <kbd>sh ./markdowntopdf.sh myfilename</kbd> to make your own zine. All of my work here is released as [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) so you can do whatever you want with it. Like use all or some of it in your own work or print it out and sell it at your table. 
 
 </section>
 <section class="" markdown="1">
