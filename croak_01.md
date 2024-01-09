@@ -255,7 +255,7 @@ The anointed warrior. Anti-paladins may use all of the powers of the cleric and 
 
 **Fickle Master**: Anti-Paladin's use d5s when rolling on the disapproval table.
 
-**Lay On Hands:**: Replaced with *Death Touch* (*DCC Annual*, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any _living being_ touched. The die used is on the dice chain at the Anti-paladin's level. Undead are healed as normal _lay on hands_. Turned undead are healed and do your bidding for the day.
+**Lay On Hands:**: Replaced with *Death Touch* (*DCC Annual*, #1, Pg 18) or, as an action, the Anti-paladin may cause 1 die of damage to any _living being_ touched. The die is the lowest on the dice chain at the Anti-paladin's level. Undead are healed as normal _lay on hands_. 
 
 **Turn Unholy:** effects the same creatures as a lawful Cleric, but makes them your slaves. Use the *Turn Unholy* table but, the turned fight for you for the amount of time listed and half the hit points. 
 
