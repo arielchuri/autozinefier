@@ -264,7 +264,7 @@ The anointed warrior. Anti-paladins may use all of the powers of the cleric and 
 | Lvl | Atk    | Crit      | Act/Deed  | Ref | Fort | Will | Spells |    |    |    |    |
 |-----|--------|-----------|-----------|-----|------|------|--------|----|----|----|----|
 |     |        | Die/Table | Dice      |     |      |      | Lvl. 1 | 2  | 3  | 4  | 5  |
-| 1   | +1     | 1d10/III  | 1d20      | +0  | +1   | +1   | 2      | -- | -- | -- | -- |
+| 1   | +2     | 1d10/III  | 1d20      | +0  | +1   | +1   | 2      | -- | -- | -- | -- |
 | 2   | +d3    | 1d12/III  | 1d20      | +0  | +1   | +1   | 3      | -- | -- | -- | -- |
 | 3   | +d4    | 1d14/III  | 1d20      | +1  | +1   | +2   | 3      | 1  | -- | -- | -- |
 | 4   | +d5    | 1d16/IV   | 1d20      | +1  | +2   | +2   | 4      | 2  | -- | -- | -- |
@@ -358,7 +358,7 @@ Dark Elfi character sheet 2
 
 ## Bard's Bane
 
-This enchanted sword passes exists in a dimension of infinate personalities. Roll on the following table at the beginning of each session.
+This intelligent sword passes exists in a dimension of infinate personalities. Roll on the following table at the beginning of each session.
 
 | d24 | Personality          | Power                                                                                                                     |
 |-----|----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -393,8 +393,8 @@ This enchanted sword passes exists in a dimension of infinate personalities. Rol
 |     | Ecstatic             | +3                                                                                                                        |
 |     | Natural              | +2, +1 crit range, +1d crit die, -1d fumble die, +1 Ref saves, +3 Fort saves                                              |
 
-If the sword is ignored, unused for a long time, or unused because of a die roll, it becomes Petulant at the next personality change. 
-Petulant: whines about everything. No bonuses.
+If the sword is ignored, unused for a long time, or unused because of a die roll, it becomes Petulant and sarcastic at the next personality change. 
+No bonuses.
 </section>
 <section class="" markdown="1">
 
