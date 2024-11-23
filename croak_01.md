@@ -32,8 +32,6 @@ Every contributor has waived copyright to their work. Anyone can use it for any 
 </section>
 <section markdown="1" class="">
 
-<!-- ![](images/coversuper.svg) -->
-<!-- {: .background} -->
 
 ## AutoZinefier
 
@@ -108,8 +106,8 @@ You are gristled loner raised by bears, a storied hunter and tracker, a camoflou
 
 *Ranged attacks only.
 
-<!-- ![](images/coversuper.svg) -->
-<!-- {: .background} -->
+![image](images/ranger_portrait.svg)
+{: }
 
 ### Ranger character sheet {: .breakbefore .breakafter .hidden}
 
