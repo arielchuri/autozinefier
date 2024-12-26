@@ -185,6 +185,9 @@ for 1 round. Your armor class is reduced by the same amount.
 | 9   | +d10+2 | 2d20/V   | 17-20        | 1d20+1d20      | +6       | +3  | +6   | +2   |
 | 10  | +d10+3 | 2d20/V   | 17-20        | 1d20+1d20+1d16 | +7       | +4  | +6   | +3   |
 
+![image](images/barbarian_portrait.svg)
+{: }
+
 ### Barbarian character sheet {: .breakbefore .breakafter .hidden}
 
 [![](charactersheets/BarbarianSheet.svg)](charactersheets/BarbarianSheet.pdf)
